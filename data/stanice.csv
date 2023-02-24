@@ -1,0 +1,3177 @@
+2,"Břeclav státní hranice",False
+4,"Břeclav přednádraží",False
+5,"Ladná",False
+10,"Popice",False
+11,"Pouzdřany",False
+13,"Žabčice",False
+14,"Hrušovany u Brna",False
+15,"Vojkovice nad Svratkou",False
+16,"Rajhrad",False
+17,"Popovice u Rajhradu",False
+19,"Brno-Horní Heršpice",False
+20,"Brno hl.n. přednádr.",False
+23,"Bílovice nad Svitavou",False
+24,"Babice nad Svitavou",False
+26,"Adamov zastávka",False
+29,"Dolní Lhota",False
+31,"Doubravice nad Svitavou",False
+33,"Svitávka",False
+34,"Zboněk",False
+35,"Letovice zastávka",False
+37,"Rozhraní",False
+38,"Moravská Chrastová",False
+40,"Březová nad Svitavou-Dlouhá",False
+41,"Hradec nad Svitavou",False
+42,"Svitavy-Lány",False
+44,"Svitavy-Lačnov",False
+45,"Opatov",False
+46,"Semanín",False
+48,"Dlouhá Třebová",False
+51,"Bezpráví",False
+52,"Brandýs nad Orlicí",False
+55,"Sruby",False
+56,"Dobříkov u Chocně",False
+57,"Zámrsk",False
+58,"Sedlíšťka",False
+59,"Uhersko",False
+61,"Kostěnice",False
+62,"Pardubice-Černá za Bory",False
+63,"Pardubice-Pardubičky",False
+65,"Pardubice-Svítkov",False
+66,"Pardubice-Opočínek",False
+67,"Valy u Přelouče",False
+68,"Přelouč nákl. n.",False
+70,"Lhota pod Přeloučí",False
+72,"Chvaletice",False
+73,"Kojice",False
+74,"Týnec nad Labem",False
+75,"Záboří n.L.",False
+76,"Starý Kolín",False
+77,"Kolín dílny",False
+78,"Kolín seř.n.",False
+80,"Kolín zastávka",False
+81,"Nová Ves u Kolína",False
+82,"Velim",False
+83,"Cerhenice",False
+85,"Tatce",False
+87,"Klučov",False
+89,"Rostoklaty",False
+90,"Tuklaty",False
+91,"Úvaly",False
+92,"Praha-Klánovice",False
+93,"Praha-Běchovice střed",False
+94,"Praha-Běchovice",False
+95,"Praha-Dolní Počernice",False
+96,"Praha-Kyje",False
+99,"Hrušky zastávka",False
+101,"Lužice",False
+103,"Rohatec zastávka",False
+104,"Rohatec",False
+105,"Bzenec přívoz",False
+107,"Moravský Písek zastávka",False
+108,"Nedakonice",False
+109,"Kostelany nad Moravou",False
+111,"Huštěnovice",False
+112,"Spytihněv",False
+113,"Napajedla",False
+115,"Tlumačov",False
+116,"Záhlinice",False
+118,"Břest",False
+119,"Říkovice",False
+120,"Horní Moštěnice",False
+121,"Přerov přednádraží",False
+123,"Prosenice",False
+124,"Osek nad Bečvou",False
+126,"Drahotuše",False
+128,"Bělotín",False
+129,"Polom",False
+130,"Jeseník nad Odrou",False
+132,"Hladké Životice",False
+134,"Jistebník",False
+135,"Polanka nad Odrou",False
+137,"Ostrava-Mariánské Hory",False
+139,"Bohumín-Vrbice",False
+140,"Bohumín přednádraží",False
+142,"Bohumín státní hranice",False
+143,"Dolní Lutyně",False
+144,"Dětmarovice",False
+145,"Závada",False
+147,"Petrovice u Karviné státní hranice",False
+148,"Bohumín-Vrbice st.hr",False
+149,"Rokytnice u Přerova",False
+150,"Brodek u Přerova",False
+151,"Grygov",False
+153,"Olomouc přednádraží",False
+154,"Štěpánov",False
+155,"Střeň",False
+157,"Moravičany",False
+159,"Lukavice na Moravě",False
+161,"Lupěné",False
+163,"Hoštejn",False
+164,"Tatenice",False
+165,"Krasíkov kol. 1a, 2a",False
+166,"Krasíkov",False
+168,"Žichlínek",False
+169,"Luková u Rudoltic v Čechách",False
+172,"Horní Lideč státní hranice",False
+175,"Lidečko ves",False
+176,"Lidečko",False
+177,"Lužná u Vsetína",False
+178,"Valašská Polanka",False
+179,"Leskovec",False
+181,"Jablůnka",False
+182,"Bystřička",False
+183,"Brňov",False
+185,"Lhotka nad Bečvou",False
+186,"Hustopeče nad Bečvou",False
+187,"Milotice nad Bečvou",False
+188,"Špičky",False
+189,"Černotín",False
+190,"Teplice nad Bečvou",False
+191,"Hranice na Moravě město",False
+192,"Lanžhot státní hranice",False
+193,"Lanžhot",False
+194,"Mosty u Jablunkova státní hranice",False
+195,"Mosty u Jablunkova zastávka",False
+197,"Bocanovice",False
+199,"Hrádek",False
+201,"Vendryně (Wędrynia)",False
+204,"Třinec-Konská (Trzyniec-Końska)",False
+205,"Ropice zastávka",False
+206,"Český Těšín nákl.n.",False
+207,"Český Těšín",False
+208,"Chotěbuz (Kocobędz)",False
+209,"Louky nad Olší",False
+210,"Karviná-Darkov",False
+214,"Praha-Sedlec",False
+216,"Roztoky-Žalov",False
+217,"Úholičky",False
+218,"Řež",False
+219,"Libčice nad Vltavou-Letky",False
+220,"Libčice nad Vltavou",False
+221,"Dolany nad Vltavou",False
+223,"Nelahozeves zámek",False
+224,"Nelahozeves",False
+225,"Nové Ouholice",False
+226,"Mlčechvosty",False
+228,"Cítov",False
+229,"Dolní Beřkovice",False
+230,"Horní Počaply",False
+232,"Hněvice seř.n.",False
+233,"Záluží",False
+234,"Dobříň",False
+236,"Hrobce",False
+237,"Oleško",False
+238,"Hrdly",False
+240,"Nové Kopisty",False
+241,"Lukavec",False
+242,"Lovosice jih",False
+244,"Lovosice město",False
+245,"Malé Žernoseky",False
+246,"Litochovice nad Labem",False
+247,"Prackovice nad Labem",False
+248,"Dolní Zálezly",False
+249,"Ústí nad Labem jih",False
+251,"Ústí nad Labem sever",False
+252,"Neštěmice",False
+253,"Mojžíř",False
+254,"Neštědice",False
+255,"Povrly",False
+256,"Povrly-Roztoky",False
+257,"Dobkovice",False
+258,"Choratice",False
+259,"Vilsnice",False
+260,"Děčín hl.n.nákl.n.",False
+262,"Děčín-Přípeř",False
+263,"Děčín-Prostřední Žleb",False
+264,"Děčín-Čertova Voda",False
+265,"Dolní Žleb zastávka",False
+267,"Děčín státní hranice",False
+268,"Horní Dvořiště státní hranice",False
+271,"Pšenice",False
+272,"Bujanov",False
+273,"Omlenice",False
+275,"Výheň",False
+276,"Velešín",False
+278,"Holkov",False
+279,"Chlumec u Českých Budějovic",False
+280,"Kamenný Újezd u Českých Budějovic",False
+281,"Kamenný Újezd u Č. Budějovic zast.",False
+282,"Včelná",False
+283,"České Budějovice jižní zastávka",False
+285,"České Budějovice severní zastávka",False
+286,"Výh Nemanice I",False
+287,"Hrdějovice",False
+288,"Hosín",False
+289,"Hluboká nad Vltavou-Zámostí",False
+290,"Chotýčany",False
+291,"Ševětín",False
+292,"Neplachov",False
+293,"Dynín zastávka",False
+294,"Dynín",False
+295,"Horusice",False
+296,"Veselí nad Lužnicí zastávka",False
+298,"Řípec-Dráchov",False
+300,"Roudná",False
+301,"Doubí u Tábora",False
+304,"Tábor-Čápův Dvůr",False
+307,"Sudoměřice u Tábora",False
+308,"Mezno",False
+309,"Střezimíř",False
+310,"Červený Újezd u Votic",False
+311,"Ješetice",False
+312,"Heřmaničky",False
+315,"Tomice",False
+316,"Bystřice u Benešova",False
+318,"Mrač",False
+320,"Pyšely",False
+321,"Čtyřkoly",False
+322,"Senohraby",False
+323,"Mirošovice u Prahy",False
+324,"Mnichovice",False
+326,"Světice",False
+328,"Praha-Kolovraty",False
+329,"Praha-Uhříněves",False
+330,"Praha-Horní Měcholupy",False
+335,"Praha-Velká Chuchle",False
+337,"Černošice",False
+338,"Černošice-Mokropsy",False
+339,"Všenory",False
+340,"Dobřichovice",False
+343,"Karlštejn",False
+344,"Srbsko",False
+346,"Beroun seř.n.",False
+347,"Králův Dvůr",False
+348,"Králův Dvůr - Popovice",False
+350,"Stašov",False
+351,"Praskolesy",False
+353,"Cerhovice",False
+355,"Kařízek",False
+356,"Mýto",False
+357,"Holoubkov",False
+358,"Svojkovice",False
+359,"Rokycany-Borek",False
+361,"Klabava",False
+362,"Ejpovice",False
+363,"Plzeň-Doubravka",False
+366,"Plzeň-Skvrňany",False
+367,"Vejprnice",False
+368,"Tlučná",False
+370,"Zbůch",False
+371,"Chotěšov u Stoda",False
+373,"Hradec u Stoda",False
+375,"Dolní Kamenice",False
+377,"Osvračín",False
+378,"Blížejov",False
+379,"Milavče",False
+382,"Babylon",False
+383,"Česká Kubice",False
+384,"Česká Kubice státní hranice",False
+387,"Opava-Komárov",False
+388,"Štítina",False
+389,"Mokré Lazce",False
+390,"Lhota u Opavy",False
+391,"Háj ve Slezsku",False
+392,"Jilešovice",False
+393,"Děhylov",False
+394,"Ostrava-Třebovice",False
+395,"Plzeň-Zadní Skvrňany",False
+396,"Plzeň-Křimice",False
+397,"Vochov",False
+399,"Plešnice",False
+400,"Pňovany zastávka",False
+402,"Sulislav",False
+403,"Vranov u Stříbra",False
+405,"Milíkov",False
+407,"Ošelín",False
+408,"Pavlovice",False
+409,"Brod nad Tichou",False
+411,"Chodová Planá",False
+413,"Valy u Mariánských Lázní",False
+415,"Dolní Žandov",False
+416,"Salajna",False
+417,"Lipová u Chebu",False
+418,"Stebnice",False
+419,"Cheb-Všeboř",False
+421,"Františkovy Lázně-Aquaforum",False
+423,"Boršov nad Vltavou",False
+424,"Černý Dub",False
+425,"Hradce",False
+426,"Vrábče",False
+427,"Křemže",False
+428,"Holubov",False
+429,"Třísov",False
+430,"Plešovice",False
+431,"Zlatá Koruna",False
+432,"Přísečná",False
+433,"Domoradice",False
+438,"Chabařovice",False
+439,"Ústí západ k.601-603",False
+440,"Ústí n.L.z.vnější n.",False
+444,"Málkov",False
+448,"Kyjice",False
+451,"Želenice nad Bílinou",False
+452,"Bílina kyselka",False
+454,"Chotějovice",False
+455,"Želénky",False
+457,"Oldřichov u Duchcova",False
+458,"Řetenice",False
+459,"Tršnice",False
+460,"Nebanice",False
+462,"Dasnice",False
+463,"Šabina",False
+464,"Hlavno",False
+465,"Citice",False
+466,"Sokolov seř.n.",False
+468,"Královské Poříčí",False
+473,"Dalovice",False
+474,"Hájek",False
+476,"Vojkovice nad Ohří",False
+477,"Stráž nad Ohří",False
+478,"Boč",False
+479,"Perštejn",False
+480,"Kotvina",False
+481,"Troubsko",False
+482,"Střelice dolní",False
+484,"Omice",False
+485,"Tetčice",False
+486,"Rosice u Brna",False
+488,"Vysoké Popovice",False
+490,"Kralice nad Oslavou",False
+493,"Vladislav zastávka",False
+494,"Vladislav",False
+496,"Třebíč - Borovina",False
+497,"Krahulov",False
+499,"Číchov",False
+500,"Bransouze",False
+501,"Dolní Smrčné",False
+502,"Přímělkov",False
+503,"Bítovčice",False
+504,"Luka nad Jihlavou",False
+505,"Malý Beranov",False
+507,"Řípec",False
+508,"Doňov",False
+510,"Mnich",False
+511,"Děbolín",False
+513,"Rodvínov",False
+514,"Jarošov nad Nežárkou",False
+515,"Bednárec",False
+516,"Bednáreček",False
+517,"Popelín",False
+519,"Horní Vilímeč",False
+520,"Jihlávka",False
+521,"Horní Ves",False
+523,"Švábov",False
+527,"Dvorce",False
+528,"Rantířov",False
+529,"Jihlava-Staré Hory",False
+531,"Výh Nemanice II",False
+532,"Hluboká nad Vltavou",False
+534,"Zbudov",False
+536,"Záblatíčko",False
+538,"Milenovice",False
+541,"Skály",False
+542,"Heřmaň obec",False
+544,"Sudoměř u Písku",False
+545,"Čejetice",False
+546,"Modlešovice",False
+548,"Pracejovice",False
+549,"Katovice",False
+550,"Dolní Poříčí",False
+551,"Střelské Hoštice",False
+553,"Velký Bor",False
+554,"Jetenovice",False
+555,"Pačejov",False
+556,"Kovčín",False
+557,"Nekvasovy",False
+558,"Mileč",False
+560,"Srby",False
+561,"Ždírec u Plzně",False
+563,"Zdemyslice",False
+565,"Šťáhlavy",False
+566,"Starý Plzenec",False
+567,"Plzeň-Koterov",False
+568,"Plzeň hl.n.lobez.k.",False
+570,"Nová Ves nad Lužnicí",False
+571,"Dvory nad Lužnicí",False
+572,"Hrdlořezy",False
+574,"Suchdol nad Lužnicí",False
+576,"Majdalena zastávka",False
+579,"Lužnice",False
+580,"Lomnice nad Lužnicí",False
+581,"Frahelž",False
+582,"Vlkov nad Lužnicí",False
+584,"Plzeň-Doudlevce",False
+585,"Plzeň-Valcha",False
+586,"Dobřany zastávka",False
+593,"Červené Poříčí",False
+595,"Dehtín",False
+596,"Točník",False
+607,"Petrovice nad Úhlavou",False
+610,"Kolín-Zálabí",False
+611,"Veltruby",False
+613,"Libice nad Cidlinou",False
+615,"Velké Zboží",False
+616,"Nymburk předjízd.n.",False
+618,"Kamenné Zboží",False
+619,"Kostomlaty nad Labem",False
+620,"Stratov",False
+621,"Ostrá",False
+623,"Lysá nad Labem-Dvorce",False
+624,"Otradovice",False
+626,"Dřísy",False
+627,"Ovčáry",False
+629,"Malý Újezd",False
+631,"Mělník-Mlazice",False
+632,"Liběchov",False
+634,"Hoštka",False
+635,"Polepy",False
+636,"Křešice u Litoměřic",False
+637,"Litoměřice dolní nádraží",False
+639,"Velké Žernoseky",False
+640,"Libochovany",False
+641,"Sebuzín",False
+644,"Biskupice u Luhačovic",False
+645,"Polichno",False
+648,"Havřice",False
+649,"Hradčovice",False
+650,"Popovice u Uherského Hradiště",False
+651,"Vésky",False
+655,"Veselí nad Moravou-Milokošť",False
+656,"Uherský Ostroh",False
+657,"Ostrožská Nová Ves",False
+658,"Ostrožská Nová Ves lázně",False
+659,"Kunovice zastávka",False
+661,"Zlín-Prštné",False
+662,"Zlín-Louky",False
+663,"Zlín-Louky obchodní centrum",False
+664,"Zlín-Malenovice",False
+665,"Zlín-U mlýna",False
+666,"Zlín-Malenovice zastávka",False
+667,"Otrokovice-Trávníky",False
+669,"Šumperk zastávka",False
+673,"Olomouc kol. č. 5a",False
+674,"Olomouc-Nové Sady",False
+675,"Nemilany",False
+676,"Kožušany",False
+677,"Blatec",False
+678,"Vrbátky",False
+679,"Kraličky",False
+680,"Vrahovice",False
+682,"Bedihošť",False
+683,"Čelčice",False
+684,"Pivín",False
+685,"Doloplazy",False
+687,"Chvalkovice na Hané",False
+689,"Hoštice-Heroltice",False
+691,"Luleč",False
+692,"Komořany u Vyškova",False
+694,"Holubice",False
+696,"Zbýšov",False
+697,"Hostěrádky-Rešov",False
+701,"Brno-Černovice",False
+702,"Brno-Slatina",False
+703,"Šlapanice zastávka z",False
+705,"Ponětovice",False
+706,"Blažovice",False
+709,"Trutnov-Poříčí",False
+710,"Bohuslavice nad Úpou",False
+711,"Suchovršice",False
+718,"Řešetova Lhota",False
+721,"Velká Jesenice",False
+724,"Semonice",False
+725,"Černožice",False
+727,"Lochenice",False
+728,"Předměřice nad Labem",False
+730,"Hradec Králové-Kukleny",False
+731,"Praskačka",False
+732,"Lhota pod Libčany",False
+733,"Dobřenice",False
+734,"Kratonohy",False
+735,"Káranice",False
+736,"Nové Město nad Cidlinou",False
+738,"Převýšov",False
+739,"Choťovice",False
+741,"Sány",False
+742,"Velký Osek-Kanín",False
+743,"Nymburk město",False
+744,"Hořátev",False
+745,"Sadská",False
+746,"Třebestovice",False
+748,"Lukavice v Čechách",False
+750,"Bohousová",False
+751,"Litice nad Orlicí",False
+752,"Sopotnice",False
+753,"Potštejn",False
+754,"Záměl",False
+756,"Kostelec nad Orlicí",False
+757,"Kostelec nad Orlicí město",False
+759,"Čestice",False
+760,"Lípa nad Orlicí",False
+762,"Petrovice nad Orlicí",False
+763,"Třebechovice pod Orebem",False
+764,"Blešno",False
+765,"Hradec Králové-Slezské Předměstí",False
+766,"Hradec Králové zastávka",False
+767,"Jihlava-Bosch Diesel",False
+768,"Střítež u Jihlavy",False
+770,"Kamenná",False
+771,"Šlapanov",False
+772,"Mírovka",False
+774,"Havlíčkův Brod-Perknov",False
+775,"Okrouhlice",False
+776,"Pohleď",False
+778,"Světlá nad Sázavou-Josefodol",False
+779,"Sázavka",False
+780,"Leština u Světlé",False
+781,"Nová Ves u Leštiny",False
+782,"Vlkaneč",False
+784,"Golčův Jeníkov",False
+785,"Bratčice",False
+786,"Horky u Čáslavi",False
+788,"Třebešice",False
+789,"Církvice",False
+791,"Hlízov",False
+793,"Hamry nad Sázavou",False
+794,"Sázava u Žďáru",False
+795,"Nížkov",False
+796,"Ronov nad Sázavou",False
+798,"Přibyslav zastávka",False
+799,"Stříbrné Hory",False
+800,"Pohled",False
+801,"Pohledští Dvořáci",False
+802,"Brno-Lesná",False
+804,"Brno-Řečkovice",False
+805,"Česká",False
+807,"Čebín",False
+808,"Hradčany",False
+810,"Dolní Loučky",False
+811,"Řikonín",False
+812,"Níhov",False
+814,"Osová Bítýška",False
+815,"Ořechov",False
+817,"Sklené nad Oslavou",False
+818,"Laštovičky",False
+819,"Ostrov nad Oslavou",False
+823,"Ostrava-Kunčičky",False
+825,"Ostrava-Bartovice",False
+826,"Šenov",False
+828,"Havířov střed",False
+829,"Havířov-Suchá",False
+830,"Horní Suchá",False
+831,"Albrechtice u Českého Těšína",False
+832,"Vlárský průsmyk státní hranice",False
+834,"Svatý Štěpán",False
+836,"Popov",False
+837,"Bohuslavice nad Vláří",False
+838,"Divnice",False
+840,"Hostětín",False
+844,"Záhorovice",False
+845,"Nezdenice",False
+846,"Šumice",False
+847,"Plzeň hl.n.seř.n.",False
+848,"Plzeň-Bílá Hora",False
+849,"Plzeň-Bolevec",False
+850,"Plzeň-Orlík",False
+851,"Třemošná u Plzně",False
+852,"Horní Bříza zastávka",False
+853,"Horní Bříza",False
+854,"Obora u Kaznějova",False
+857,"Horní Hradiště",False
+858,"Mladotice zastávka",False
+860,"Potvorov",False
+862,"Pastuchovice",False
+869,"Kaštice",False
+870,"Kněžice",False
+871,"Čejkovice",False
+872,"Žabokliky",False
+873,"Libočany",False
+876,"Žiželice",False
+878,"Denětice",False
+879,"Holetice",False
+881,"Droužkovice",False
+882,"Věžky",False
+885,"Měrovice nad Hanou",False
+886,"Němčice nad Hanou",False
+888,"Praha-Satalice",False
+891,"Hovorčovice",False
+892,"Měšice u Prahy",False
+893,"Zlonín",False
+894,"Kojetice u Prahy",False
+899,"Kojovice",False
+900,"Košátky",False
+901,"Kropáčova Vrutice",False
+902,"Zdětín u Chotětova",False
+903,"Chotětov",False
+904,"Krnsko",False
+906,"Mladá Boleslav-Debř",False
+910,"Březina nad Jizerou",False
+911,"Loukov u Mnichova Hradiště",False
+912,"Příšovice",False
+913,"Přepeře u Turnova",False
+917,"Líšný",False
+921,"Návarov",False
+923,"Velké Hamry",False
+927,"Putim",False
+928,"Heřmaň",False
+929,"Písek zastávka",False
+930,"Písek-Dobešice",False
+932,"Vráž u Písku",False
+933,"Dolní Ostrovec",False
+934,"Smetanova Lhota",False
+936,"Horní Nerestce",False
+938,"Myslín",False
+939,"Dobrá Voda u Březnice",False
+941,"Tochovice",False
+942,"Tochovice zastávka",False
+943,"Ostrov u Tochovic",False
+944,"Milín",False
+947,"Bratkovice",False
+949,"Rejkovice",False
+951,"Libomyšl",False
+952,"Beroun-Závodí",False
+953,"Vráž u Berouna",False
+954,"Loděnice",False
+956,"Nučice",False
+957,"Rudná zastávka",False
+959,"Jinočany",False
+960,"Zbuzany",False
+961,"Praha-Řeporyje",False
+962,"Praha-Holyně",False
+963,"Praha-Hlubočepy",False
+964,"Veleliby",False
+965,"Všejany",False
+966,"Čachovice",False
+967,"Luštěnice-Újezd",False
+968,"Luštěnice",False
+969,"Voděrady",False
+970,"Dobrovice",False
+971,"Nepřevázka",False
+972,"Malá Bělá",False
+973,"Bělá pod Bezdězem zastávka",False
+975,"Bělá pod Bezdězem město",False
+977,"Okna",False
+980,"Jestřebí",False
+981,"Srní u České Lípy",False
+987,"Nová Huť v Lužických horách",False
+994,"Valdek",False
+995,"Šluknov údolí",False
+998,"Praha-Bubny",False
+1001,"Praha-Ruzyně",False
+1003,"Jeneč",False
+1004,"Pavlov",False
+1005,"Unhošť",False
+1007,"Kladno-Rozdělov",False
+1008,"Kamenné Žehrovice",False
+1011,"Rynholec",False
+1013,"Řevničov",False
+1015,"Rakovník zastávka",False
+1017,"Chlum u Rakovníka",False
+1018,"Lašovice",False
+1019,"Pustověty",False
+1020,"Městečko u Křivoklátu",False
+1023,"Újezd nad Zbečnem",False
+1025,"Račice nad Berounkou",False
+1026,"Žloukovice",False
+1028,"Hýskov",False
+1029,"Velký Borek",False
+1030,"Mělnická Vrutice",False
+1031,"Hleďsebe",False
+1032,"Lhotka u Mělníka zastávka",False
+1034,"Nebužely",False
+1035,"Živonín",False
+1038,"Buda",False
+1039,"Kněžmost",False
+1040,"Lítkovice",False
+1041,"Obrubce",False
+1044,"Libošovice",False
+1045,"Malechovice",False
+1047,"Hrdoňovice",False
+1049,"Jinolice",False
+1050,"Železnice",False
+1051,"Jičín zastávka",False
+1054,"Liberec ÚTD",False
+1055,"Liberec-Horní Růžodol",False
+1056,"Ostašov",False
+1057,"Karlov pod Ještědem",False
+1058,"Kryštofovo Údolí",False
+1059,"Novina",False
+1062,"Rynoltice",False
+1063,"Lvová",False
+1065,"Velký Valtinov",False
+1067,"Velký Grunov",False
+1071,"Zákupy",False
+1072,"Vlčí Důl-Dobranov",False
+1073,"Kytlice",False
+1074,"Mlýny",False
+1075,"Horní Kamenice",False
+1077,"Poříčí nad Sázavou",False
+1078,"Poříčí nad Sázavou-Svárov",False
+1079,"Pecerady",False
+1081,"Chrást nad Sázavou",False
+1082,"Krhanice",False
+1083,"Prosečnice",False
+1084,"Kamenný Přívoz",False
+1086,"Luka pod Medníkem",False
+1087,"Petrov u Prahy",False
+1088,"Petrov-Chlomek",False
+1089,"Davle",False
+1090,"Davle přírodní park",False
+1091,"Skochovice",False
+1093,"Dolní Břežany-Jarov",False
+1094,"Praha-Zbraslav",False
+1095,"Praha-Komořany",False
+1096,"Praha-Modřany",False
+1097,"Praha-Modřany zastávka",False
+1098,"Praha-Braník",False
+1099,"Praha-Krč",False
+1100,"Praha-Kačerov",False
+1101,"Praha-Vršovice depo",False
+1103,"Nová Ves nad Popelkou",False
+1105,"Ústí u Staré Paky",False
+1107,"Bělá u Staré Paky",False
+1108,"Libštát",False
+1110,"Nedvězí",False
+1112,"Doubí u Turnova",False
+1114,"Sedlejovice",False
+1117,"Rádlo",False
+1118,"Jeřmanice",False
+1119,"Pilínkov",False
+1120,"Turnov kolej č. 23",False
+1121,"Turnov město",False
+1122,"Karlovice-Sedmihorky",False
+1123,"Hrubá Skála",False
+1124,"Borek pod Troskami",False
+1125,"Ktová",False
+1127,"Semínova Lhota",False
+1128,"Jivany",False
+1129,"Libuň zastávka",False
+1131,"Mladkov",False
+1132,"Těchonín",False
+1133,"Jamné nad Orlicí",False
+1135,"Verměřovice",False
+1136,"Dolní Dobrouč",False
+1137,"Hnátnice",False
+1138,"Lanšperk",False
+1139,"Černovír",False
+1140,"Dolní Libchavy",False
+1141,"Lichkov státní hranice",False
+1143,"Bělá nad Radbuzou zastávka",False
+1144,"Třemešné pod Přimdou",False
+1145,"Dubec",False
+1146,"Borek u Tachova",False
+1147,"Stráž u Tachova",False
+1148,"Bor zastávka",False
+1149,"Bor",False
+1150,"Skviřín",False
+1151,"Holostřevy",False
+1152,"Lom u Stříbra",False
+1153,"Brno dolní nádraží",False
+1155,"Sedlnice",False
+1156,"Sedlnice-Bartošovice",False
+1158,"Vávrovice",False
+1159,"Holasovice",False
+1160,"Skrochovice",False
+1161,"Úvalno",False
+1164,"Brantice",False
+1165,"Zátor",False
+1173,"Jívová",False
+1174,"Hrubá Voda-Smilov",False
+1176,"Hrubá Voda zastávka",False
+1178,"Hlubočky zastávka",False
+1126,"Rovensko pod Troskami",True
+1180,"Velká Bystřice zastávka",False
+1181,"Velká Bystřice",False
+1182,"Bystrovany",False
+1183,"Olomouc-Bělidla",False
+1184,"Cheb-Skalka",False
+1185,"Pomezí nad Ohří z",False
+1186,"Cheb státní hranice",False
+1188,"Pardubice-Semtín",False
+1189,"Stéblová",False
+1192,"Opatovice nad Labem-Pohřebačka",False
+1193,"Hradec Králové obchodní zóna",False
+1195,"Kuks",False
+1196,"Žireč",False
+1200,"Borovnička",False
+1201,"Borovnice",False
+1203,"Levínská Olešnice",False
+1204,"Česká Lípa-Holý vrch",False
+1205,"Stružnice",False
+1206,"Horní Police",False
+1207,"Žandov",False
+1208,"Starý Šachov",False
+1209,"Františkov nad Ploučnicí",False
+1211,"Malá Veleň",False
+1212,"Březiny u Děčína",False
+1215,"Lipová Lázně zastávka",False
+1217,"Horní Lipová",False
+1218,"Ramzová",False
+1219,"Ostružná",False
+1220,"Branná",False
+1221,"Nové Losiny",False
+1222,"Jindřichov na Moravě",False
+1223,"Potůčník",False
+1225,"Hanušovice Holba",False
+1226,"Raškov",False
+1227,"Bohdíkov",False
+1228,"Komňátka",False
+1229,"Ruda nad Moravou",False
+1230,"Bartoňov",False
+1231,"Bohutín",False
+1232,"Bludov lázně",False
+1233,"Nový Malín",False
+1234,"Hrabišín",False
+1235,"Libina",False
+1236,"Nová Hradečná",False
+1237,"Troubelice zastávka",False
+1238,"Troubelice střed",False
+1240,"Uničov zastávka",False
+1241,"Újezd u Uničova",False
+1242,"Mladějovice",False
+1243,"Babice u Šternberka",False
+1245,"Štarnov",False
+1247,"Hlušovice",False
+1248,"Krásné Loučky",False
+1249,"Linhartovy",False
+1250,"Město Albrechtice",False
+1251,"Třemešná ve Slezsku",False
+1253,"Jindřichov ve Slezsku st. hr.",False
+1254,"Mikulovice státní hranice",False
+1256,"Hradec-Nová Ves",False
+1257,"Písečná",False
+1258,"Česká Ves bazén",False
+1259,"Česká Ves",False
+1260,"Pardubice závodiště",False
+1261,"Staré Jesenčany",False
+1262,"Medlešice",False
+1263,"Chrudim zastávka",False
+1266,"Zaječice",False
+1267,"Chrast u Chrudimi",False
+1268,"Horka u Chrudimi",False
+1269,"Vrbatův Kostelec",False
+1270,"Prosetín",False
+1272,"Pokřikov",False
+1273,"Vojtěchov",False
+1274,"Holetín",False
+1276,"Břevnice",False
+1277,"Rozsochatec",False
+1278,"Chotěboř",False
+1279,"Bílek",False
+1280,"Sobíňov",False
+1281,"Ždírec n.D.",False
+1282,"Stružinec",False
+1283,"Vítanov",False
+1284,"Hlinsko-Kouty",False
+1285,"Staré Místo u Jičína",False
+1286,"Nemyčeves",False
+1287,"Jičíněves",False
+1288,"Bartoušov",False
+1289,"Bartoušov zastávka",False
+1290,"Pševes",False
+1292,"Mlýnec",False
+1294,"Ledečky",False
+1295,"Křinec",False
+1296,"Oskořínek",False
+1297,"Jíkev",False
+1300,"Zeměchy",False
+1301,"Olovnice",False
+1302,"Neuměřice",False
+1303,"Kamenný Most u Kralup nad Vltavou",False
+1304,"Zvoleněves",False
+1305,"Podlešín",False
+1306,"Slaný předměstí",False
+1308,"Královice u Zlonic",False
+1310,"Páleček",False
+1312,"Vrbičany",False
+1313,"Telce",False
+1315,"Vrbno nad Lesy",False
+1316,"Cítoliby",False
+1317,"Chlumčany u Loun",False
+1320,"MB hl.n. kol.č. 5c",False
+1322,"Kladno-Švermov",False
+1324,"Kladno město",False
+1326,"Kralupy nad Vltavou-Minice",False
+1327,"Otvovice",False
+1328,"Zákolany",False
+1329,"Dřetovice",False
+1330,"Brandýsek",False
+1331,"Kladno-Vrapice",False
+1332,"Hudčice",False
+1333,"Slavětín u Březnice",False
+1334,"Bělčice",False
+1335,"Závišín",False
+1336,"Bezdědovice",False
+1340,"Chabeřice",False
+1341,"Čížov",False
+1342,"Střechov nad Sázavou",False
+1343,"Kácov zastávka",False
+1344,"Kácov",False
+1345,"Vranice",False
+1346,"Soběšín",False
+1347,"Český Šternberk zastávka",False
+1348,"Český Šternberk",False
+1349,"Malovidy",False
+1350,"Rataje nad Sázavou-Ivaň",False
+1351,"Rataje nad Sázavou zastávka",False
+1353,"Samopše",False
+1355,"Sázava zastávka",False
+1356,"Plužiny",False
+1357,"Stříbrná Skalice",False
+1358,"Samechov",False
+1359,"Vlkovec",False
+1360,"Chocerady",False
+1361,"Hvězdonice",False
+1362,"Zlenice",False
+1363,"Lštění",False
+1364,"Mankovice",False
+1366,"Odry-Loučky",False
+1367,"Jakubčovice nad Odrou",False
+1368,"Heřmánky",False
+1369,"Klokočov",False
+1371,"Čermná ve Slezsku",False
+1372,"Svatoňovice",False
+1374,"Ostrava-Zábřeh",False
+1375,"Ostrava-Vítkovice",False
+1376,"Vratimov",False
+1377,"Paskov",False
+1378,"Lískovec u Frýdku",False
+1380,"Baška",False
+1381,"Pržno",False
+1383,"Čeladná",False
+1384,"Kunčice pod Ondřejníkem",False
+1387,"Skotnice",False
+1388,"Příbor",False
+1389,"Kopřivnice nákl.nádr",False
+1390,"Kopřivnice zastávka",False
+1394,"Zubří",False
+1395,"Střítež nad Bečvou",False
+1396,"Zašová",False
+1397,"Hrachovec",False
+1398,"Krhová",False
+1399,"Branky na Moravě",False
+1400,"Police u Valašského Meziříčí",False
+1401,"Kunovice-Loučka",False
+1402,"Rajnochovice",False
+1404,"Loukov",False
+1406,"Hlinsko pod Hostýnem",False
+1407,"Jankovice",False
+1408,"Dobrotice",False
+1410,"Třebětice",False
+1412,"Postoupky",False
+1413,"Bezměrov",False
+1414,"Nasavrky",False
+1415,"Balkova Lhota",False
+1416,"Meziříčí",False
+1417,"Padařov",False
+1419,"Sepekov",False
+1421,"Líšnice",False
+1423,"Stehlovice",False
+1424,"Jetětice",False
+1426,"Vlastec",False
+1427,"Záhoří",False
+1428,"Vrcovice",False
+1430,"Písek jih",False
+1431,"Radostice",False
+1432,"Silůvky",False
+1434,"Budkovice",False
+1437,"Pravice",False
+1438,"Břežany",False
+1439,"Dolenice",False
+4001,"Liberec - Lidové sady",True
+1441,"Našiměřice",False
+1444,"Boří les",False
+1445,"Valtice město",False
+1446,"Valtice",False
+1447,"Sedlec u Mikulova",False
+1449,"Březí",False
+1450,"Dobré Pole",False
+1451,"Novosedly",False
+1452,"Jevišovka",False
+1453,"Božice u Znojma",False
+1454,"Hodonice",False
+1455,"Dyje",False
+1457,"Znojmo-Nový Šaldorf",False
+1460,"Vracov",False
+1461,"Vlkoš",False
+1462,"Kyjov zastávka",False
+1464,"Bohuslavice u Kyjova",False
+1465,"Jestřabice",False
+1467,"Brankovice",False
+1469,"Nevojice",False
+1470,"Bučovice",False
+1471,"Marefy",False
+1472,"Křižanovice",False
+1473,"Slavkov u Brna",False
+1474,"Křenovice dol.n.",False
+1475,"Žďár - průmyslová zóna",False
+1476,"Veselíčko",False
+1477,"Radňovice",False
+1478,"Nové Město na Moravě zastávka",False
+1480,"Olešná na Moravě",False
+1481,"Rovné-Divišov",False
+1482,"Rozsochy",False
+1484,"Rožná",False
+1485,"Věžná",False
+1487,"Doubravník",False
+1488,"Prudká zastávka",False
+1489,"Borač",False
+1490,"Štěpánovice",False
+1493,"Mořkov hlavní trať",False
+1494,"Hostašovice",False
+1495,"Velké Pavlovice",False
+1496,"Velké Pavlovice zastávka",False
+1497,"Bořetice",False
+1499,"Brumovice",False
+1502,"Újezd u Chocně",False
+1503,"Plchůvky",False
+1506,"Žďár nad Orlicí",False
+1507,"Trutnov-Volanov",False
+1508,"Vlčice",False
+1509,"Pilníkov",False
+1510,"Chotěvice",False
+1511,"Hostinné",False
+1512,"Hostinné město",False
+1513,"Prosečné",False
+1514,"Klášterská Lhota",False
+1516,"Horní Branná",False
+1518,"Roztoky u Jilemnice",False
+1519,"Tample",False
+1520,"Bělá u Staré Paky zastávka",False
+1521,"Nová Paka město",False
+1523,"Horní Nová Ves",False
+1524,"Lázně Bělohrad",False
+1525,"Šárovcova Lhota",False
+1526,"Ostroměř",False
+1527,"Ohnišťany",False
+1528,"Smidary",False
+1529,"Skřivany",False
+1531,"Zachrašťany",False
+1532,"Luková",False
+1533,"Plotiště nad Labem",False
+1534,"Všestary",False
+1535,"Dlouhé Dvory",False
+1536,"Dohalice",False
+1537,"Sadová",False
+1539,"Cerekvice nad Bystřicí",False
+1540,"Třebovětice",False
+1541,"Jeřice",False
+1543,"Dobrá Voda u Hořic",False
+1544,"Sobčice",False
+1545,"Vojice",False
+1546,"Kovač",False
+1547,"Butoves",False
+1548,"Vitiněves",False
+1550,"Broumov-Olivětín",False
+1551,"Hynčice",False
+1552,"Ruprechtice",False
+1554,"Březová u Broumova",False
+1555,"Bohdašín",False
+1557,"Dědov",False
+1558,"Česká Metuje",False
+1559,"Žďár nad Metují",False
+1560,"Police nad Metují",False
+1561,"Hronov zastávka",False
+1563,"Velké Poříčí",False
+1564,"Náchod-Malé Poříčí",False
+1565,"Náchod-Běloves",False
+1567,"Náchod zastávka",False
+1569,"Bolehošť",False
+1570,"Očelice",False
+1571,"Opočno pod Orlickými horami",False
+1572,"Pohoří",False
+1573,"Bohuslavice nad Metují zastávka",False
+1574,"Bohuslavice nad Metují",False
+1575,"Černčice",False
+1576,"N. Město n. Met.",False
+1578,"Teplice nad Metují skály",False
+1580,"Trutnov-Zel. Louka z",False
+1581,"Trutnov-Staré m. z",False
+1582,"Kalná Voda nz",False
+1583,"Mladé Buky z",False
+1586,"Mysliboř",False
+1587,"Sedlejov",False
+1588,"Hodice",False
+1589,"Třešť město",False
+1590,"Třešť",False
+1591,"Jezdovice",False
+1592,"Salavice",False
+1593,"Kostelec u Jihlavy masna",False
+1594,"Telč-Staré Město",False
+1595,"Radkov",False
+1596,"Slaviboř",False
+1597,"Velký Pěčín",False
+1598,"Malý Pěčín",False
+1601,"Urbaneč",False
+1602,"Peč",False
+1603,"Dolní Bolíkov",False
+1604,"Mutišov",False
+1606,"Znojmo nemocnice",False
+1607,"Citonice",False
+1608,"Olbramkostel",False
+1609,"Šumná",False
+1610,"Grešlové Mýto",False
+1611,"Blížkovice",False
+1612,"Vesce",False
+1614,"Bohušice",False
+1615,"Jaroměřice nad Rokytnou",False
+1616,"Lesůňky",False
+1617,"Šebkovice",False
+1618,"Kojetice na Moravě",False
+1619,"Stařeč",False
+1620,"Hvězdoňovice",False
+1621,"Dolní Habartice",False
+1622,"Markvartice",False
+1623,"Veselé pod Rabštejnem",False
+1624,"Zahrady u Rumburka",False
+1627,"Mikulášovice hor.n.",False
+1630,"Háj u Duchcova",False
+1631,"Osek",False
+1632,"Lom u Mostu",False
+1633,"Louka u Litvínova",False
+1634,"Lom u Mostu zastávka",False
+1636,"Horní Háj",False
+1637,"Hrob",False
+1638,"Střelná v Krušných horách",False
+1639,"Dubí",False
+1640,"Mikulov v Krušných horách",False
+1641,"Mikulov-Nové Město",False
+1644,"Stará Huť",False
+1645,"Mokrovraty",False
+1646,"Malá Hraštice",False
+1647,"Nová Ves pod Pleší",False
+1648,"Mníšek pod Brdy",False
+1649,"Rymaně",False
+1651,"Bojanovice",False
+1652,"Bojov",False
+1653,"Klínec",False
+1654,"Měchenice",False
+1655,"České Velenice státní hranice",False
+1656,"Vyšné",False
+1657,"Nové Hrady",False
+1658,"Petříkov",False
+1659,"Jílovice",False
+1660,"Hluboká u Borovan",False
+1661,"Borovany",False
+1662,"Radostice u Trocnova",False
+1663,"Trocnov",False
+1664,"Nová Ves u Českých Budějovic",False
+1665,"Nové Hodějovice",False
+1666,"Šatov státní hranice",False
+1668,"Želivec",False
+1669,"Hodkov zastávka",False
+1670,"Hodkov",False
+1672,"Štipoklasy",False
+1673,"Černíny",False
+1674,"Předbořice",False
+1675,"Bahno",False
+1676,"Krasoňovice",False
+1677,"Týniště",False
+1678,"Bykáň",False
+1679,"Malešov",False
+1680,"Poličany",False
+1681,"Kutná Hora předměstí",False
+1683,"Kutná Hora-Sedlec",False
+1684,"K.Hora hl.n.náv.L11a",False
+1685,"Praha-Horní Počernice",False
+1686,"Zeleneč",False
+1687,"Mstětice",False
+1689,"Čelákovice-Jiřina",False
+1691,"Liberec-Rochlice",False
+1692,"Vesec u Liberce",False
+1693,"Vratislavice nad Nisou",False
+1694,"Proseč nad Nisou",False
+1695,"Jablonec n.N. dol.n.",False
+1696,"Jablonec nad Nisou",False
+1697,"Jablonec nad Nisou centrum",False
+1698,"Jablonec nad Nisou zastávka",False
+1699,"Nová Ves nad Nisou",False
+1700,"Jablonecké Paseky",False
+1701,"Lučany nad Nisou",False
+1703,"Smržovka-Luční",False
+1704,"Smržovka střed",False
+1705,"Smržovka-Zvonková",False
+1706,"Smržovka dolní nádraží",False
+1707,"Tanvald zastávka",False
+1710,"Dolní Polubný",False
+1711,"Desná-Pustinská",False
+1712,"Kořenov zastávka",False
+1715,"Harrachov státní hranice",False
+1718,"Louka u Ostrohu",False
+1719,"Lipov",False
+1720,"Blatnice pod Svatým Antonínkem",False
+1721,"Veselí nad Moravou-Zarazice",False
+1722,"Vnorovy",False
+1724,"Petrov u Strážnice",False
+1725,"Sudoměřice nad Moravou",False
+1726,"Rohatec kolonie",False
+1727,"Velká nad Veličkou státní hranice",False
+1728,"Břidličná lesy",False
+1729,"Břidličná",False
+1730,"Břidličná zastávka",False
+1731,"Velká Štáhle",False
+1732,"Jamartice",False
+1734,"Vikýřovice u penz. z",False
+1735,"Vikýřovice z",False
+1736,"Vikýřovice-Lesní z",False
+1738,"Rapotín zastávka z",False
+1739,"Rapotín z",False
+1740,"Velké Losiny zámek",False
+1742,"Velké Losiny zast. z",False
+1743,"Loučná n.Des.-Fil. z",False
+1744,"Loučná nad Desnou",False
+1745,"Loučná n.Des.-R. nz",False
+1747,"Ivančice letovisko",False
+1748,"Ivančice město",False
+1753,"Platěnice",False
+1754,"Roveň",False
+1756,"Častolovice zastávka",False
+1757,"Synkov",False
+1758,"Slemeno",False
+1760,"Machnín",False
+1761,"Machnín hrad",False
+1762,"Chrastava-Andělská Hora",False
+1763,"Chrastava",False
+1764,"Bílý Kostel nad Nisou",False
+1765,"Chotyně",False
+1767,"Hrádek n.N. st.hr.",False
+1769,"Předhradí",False
+1770,"Krouna zastávka",False
+1771,"Krouna",False
+1774,"Pustá Kamenice zastávka",False
+1776,"Borová u Poličky zastávka",False
+1777,"Oldřiš",False
+1778,"Sádek u Poličky",False
+1780,"Žírovice-Seníky",False
+1781,"Vojtanov",False
+1782,"státní hranice 70026",False
+1783,"státní hranice 70027",False
+1785,"Vojtanov státní hranice",False
+1786,"Šluknov zastávka",False
+1787,"Velký Šenov zastávka",False
+1789,"Lipová u Šluknova",False
+1790,"Vilémov u Šluknova",False
+1791,"Horní Poustevna",False
+1793,"Dolní Poustevna státní hranice",False
+1795,"Dobruška-Pulice",False
+1796,"Černovice u Chomutova",False
+1797,"Domina",False
+1798,"Křimov-Suchdol",False
+1799,"Křimov zastávka",False
+1800,"Křimov",False
+1801,"Nová Ves u Křimova",False
+1802,"Výsluní",False
+1803,"Rusová",False
+1804,"Měděnec",False
+1805,"Měděnec zastávka",False
+1806,"Kovářská městys",False
+1807,"Kovářská",False
+1808,"České Hamry",False
+1809,"Vejprty zastávka",False
+1810,"Vejprty koupaliště",False
+1812,"Lovčice obec",False
+1813,"Slibovice",False
+1814,"Běrunice",False
+1816,"Podhůří",False
+1820,"Mladá Boleslav město přednádraží",False
+1821,"Zahrádky u České Lípy",False
+1823,"Kravaře v Čechách",False
+1824,"Blíževedly",False
+1825,"Dubičná",False
+1827,"Liběšice",False
+1828,"Horní Řepčice",False
+1829,"Ploskovice",False
+1830,"Trnovany u Litoměřic",False
+1832,"Litoměřice Cihelna",False
+1833,"Žalhostice",False
+1834,"Lovosice závod",False
+1835,"Sulejovice",False
+1836,"Čížkovice",False
+1837,"Úpohlavy",False
+1838,"Chotěšov pod Hazmburkem",False
+1839,"Slatina pod Hazmburkem",False
+1842,"Dubany",False
+1843,"Křesín",False
+1844,"Koštice nad Ohří",False
+1845,"Pátek",False
+1846,"Slavětín nad Ohří",False
+1847,"Veltěže",False
+1848,"Louny střed",False
+1850,"Březno u Postoloprt",False
+1852,"Stráž nad Nisou",False
+1853,"Krásná Studánka",False
+1854,"Mníšek u Liberce",False
+1855,"Oldřichov v Hájích",False
+1858,"Minkovice",False
+1859,"Višňová",False
+1860,"Filipovka",False
+1862,"Frýdlant v Čechách předměstí",False
+1863,"Krásný Les bažantnice",False
+1864,"Krásný Les",False
+1865,"Řasnice",False
+1866,"Řasnice zastávka",False
+1867,"Hajniště",False
+1870,"Jindřichovice pod Smrkem-Skanzen",False
+1871,"Horní Řasnice",False
+1872,"Děčín-Staré Město",False
+1873,"Křešice u Děčína",False
+1874,"Děčín-Boletice město",False
+1875,"Boletice nad Labem",False
+1876,"Těchlovice",False
+1877,"Malé Březno nad Labem",False
+1879,"Valtířov",False
+1880,"Svádov",False
+1881,"Bílina-Chudeřice",False
+1882,"Světec",False
+1883,"Hostomice nad Bílinou",False
+1884,"Ohníč",False
+1885,"Lbín",False
+1886,"Úpořiny",False
+1887,"Velvěty",False
+1888,"Rtyně nad Bílinou",False
+1889,"Brozánky",False
+1890,"Řehlovice",False
+1891,"Stadice",False
+1892,"Koštov",False
+1893,"Trmice",False
+1894,"Tvršice",False
+1895,"Dolejší Hůrky",False
+1896,"Lišany u Žatce",False
+1897,"Výškov v Čechách",False
+1898,"Počerady",False
+1899,"Volevčice",False
+1900,"Obrnice",False
+1901,"Chrášťany",False
+1902,"Hořesedly",False
+1903,"Svojetín",False
+1904,"Janov u Rakovníka",False
+1905,"Kounov",False
+1906,"Mutějovice",False
+1908,"Solopysky",False
+1909,"Konětopy",False
+1911,"Touchovice u Loun",False
+1912,"Opočno u Loun",False
+1913,"Jimlín",False
+1914,"Louny předměstí",False
+1915,"Dobroměřice",False
+1916,"Lenešice",False
+1917,"Břvany",False
+1918,"Bečov u Mostu",False
+1919,"Most nové n. odjezd",False
+1920,"Most-Kopisty",False
+1921,"Most-Minerva",False
+1922,"Litvínov město",False
+1924,"Chlumín",False
+1925,"Netřeba",False
+1926,"Úžice",False
+1927,"Chvatěruby",False
+1930,"Loučky",False
+1931,"Mariánské Lázně město",False
+1932,"Vlkovice",False
+1933,"Milhostov u Mariánských Lázní",False
+1934,"Ovesné Kladruby",False
+1935,"Mrázov",False
+1936,"Teplá",False
+1937,"Hoštěc",False
+1938,"Poutnov",False
+1939,"Louka u Mariánských Lázní",False
+1941,"Vodná",False
+1943,"Krásný Jez zastávka",False
+1944,"Teplička u Karlových Varů",False
+1945,"Kfely",False
+1946,"Cihelny",False
+1947,"Karlovy Vary-Březová",False
+1948,"Doubí u Karlových Varů",False
+1950,"Dolní Orlice",False
+1951,"Červená Voda",False
+1952,"Červená Voda-Pod rozhlednou",False
+1954,"Králíky zastávka",False
+1956,"Bílá Voda",False
+1958,"Doly",False
+1959,"Staré Sedliště",False
+1960,"Pernolec",False
+1961,"Malý Rapotín",False
+1962,"Tachov zastávka",False
+1964,"Tachov-Bíletín",False
+1965,"Lom u Tachova",False
+1966,"Újezd Svatého Kříže",False
+1967,"Svržno",False
+1968,"Hostouň",False
+1969,"Mutěnín",False
+1971,"Vlkanov",False
+1972,"Nový Kramolín",False
+1973,"Postřekov",False
+1974,"Klenčí pod Čerchovem",False
+1975,"Trhanov",False
+1976,"Pila",False
+1977,"Havlovice",False
+1978,"Dýšina-Horomyslice",False
+1979,"Dýšina",False
+1980,"Chrást u Plzně",False
+1981,"Chrást u Plzně obec",False
+1983,"Praha-Smíchov severní nást.",False
+1984,"Praha-Žvahov",False
+1985,"Praha-Waltrovka",False
+1986,"Praha-Jinonice",False
+1987,"Praha-Cibulka",False
+1988,"Praha-Stodůlky",False
+1990,"Mačkov",False
+1991,"Sedlice",False
+1992,"Sedlice město",False
+1993,"Rojice",False
+1994,"Velká Turná",False
+1995,"Radomyšl",False
+1996,"Radomyšl zastávka",False
+1997,"Domanice",False
+1998,"Řepice",False
+2000,"Skuhrov pod Třemšínem",False
+2001,"Oslí",False
+2002,"Zadní Poříčí",False
+2004,"Dobrá na Šumavě",False
+2006,"Pěkná",False
+2007,"Ovesná",False
+2008,"Nová Pec",False
+2009,"Pernek na Šumavě",False
+2010,"Horní Planá",False
+2011,"Horní Planá zastávka",False
+2012,"Černá v Pošumaví",False
+2013,"Žlábek",False
+2014,"Hodňov",False
+2015,"Polečnice",False
+2016,"Polná na Šumavě",False
+2017,"Hořice na Šumavě",False
+2018,"Mezipotočí",False
+2021,"Nové Údolí předj.k.",False
+2023,"Skramouš",False
+2024,"Vrátno",False
+2025,"Trnová",False
+2026,"Sudoměř u Mladé Boleslavi",False
+2027,"Skalsko",False
+2028,"Katusice",False
+2029,"Líny",False
+2030,"Bukovno",False
+2031,"Kolomuty",False
+2032,"Březno u Mladé Boleslavi",False
+2033,"Dlouhá Lhota",False
+2034,"Bechov",False
+2035,"Rohatsko",False
+2036,"Kněžnice",False
+2037,"Cidlina",False
+2038,"Kyje u Jičína",False
+2041,"Horka nad Sázavou",False
+2042,"Laziště",False
+2043,"Vlastějovice",False
+2044,"Budčice",False
+2045,"Chřenovice",False
+2046,"Chřenovice-Podhradí",False
+2048,"Lužec n.Vlt.",False
+2050,"Velká Bučina",False
+4002,"Olomouc - Pavlovičky",True
+2051,"Olovnice zastávka",False
+2052,"Hostivice-Sadová",False
+2053,"Jeneč zastávka",False
+2054,"Hostouň u Prahy",False
+2055,"Dobrovíz-Amazon",False
+2056,"Dobrovíz",False
+2058,"Tuchoměřice",False
+2060,"Kováry",False
+2061,"Zákolany zastávka",False
+2062,"Koleč",False
+2063,"Želenice u Slaného",False
+2065,"Kostomlaty pod Řípem",False
+2066,"Ctiněves",False
+2067,"Mnetěš",False
+2070,"Bříza",False
+2071,"Loucká",False
+2072,"Černuc",False
+2073,"Kmetiněves",False
+2074,"Tmáň",False
+2075,"Zlonice zastávka",False
+2078,"Ropice",False
+2079,"Ropice-Zálesí (Ropica-Zalesie)",False
+2080,"Střítež u Českého Těšína",False
+2082,"Horní Tošanovice",False
+2083,"Dobratice pod Prašivou",False
+2084,"Dobrá u Frýdku-Místku",False
+2085,"Český Těšín státní hranice",False
+2086,"Petrov n.Des.zast. z",False
+2088,"Frýdlant nad Ostravicí zastávka",False
+2089,"Frýdlant nad Ostravicí-Nová Dědina",False
+2090,"Ostravice zastávka",False
+2093,"Velké Karlovice zastávka",False
+2094,"Karolinka",False
+2095,"Karolinka zastávka",False
+2096,"Nový Hrozenkov",False
+2097,"Nový Hrozenkov zastávka",False
+2098,"Halenkov",False
+2099,"Halenkov zastávka",False
+2100,"Huslenky zastávka",False
+2101,"Huslenky",False
+2102,"Hovězí",False
+2103,"Janová",False
+2104,"Ústí u Vsetína zastávka",False
+2106,"Šenov u Nového Jičína",False
+2108,"Kozmice",False
+2109,"Dolní Benešov",False
+2110,"Dolní Benešov - Zábřeh",False
+2111,"Kravaře-Kouty",False
+2113,"Velké Hoštice",False
+2114,"Malé Hoštice",False
+2115,"Opava zastávka",False
+2117,"Bolatice",False
+2118,"Štěpánkovice",False
+2120,"Vrbno p.Prad.zast. z",False
+2121,"Karlovice zast. z",False
+2122,"Karlovice",False
+2123,"Pocheň z",False
+2124,"Široká Niva",False
+2125,"Skrbovice z",False
+2126,"Kunov",False
+2127,"Nové Heřminovy z",False
+2128,"Lipová Lázně jeskyně",False
+2129,"Vápenná",False
+2130,"Žulová",False
+2131,"Tomíkovice",False
+2132,"Kobylá nad Vidnavkou",False
+2133,"Velká Kraš",False
+2134,"Horní Heřmanice",False
+2135,"Bernartice u Javorníka",False
+2137,"Hanušovice zastávka",False
+2138,"Vysoké Žibřidovice",False
+2139,"Chrastice",False
+2142,"Myslechovice",False
+2143,"Cholina",False
+2144,"Odrlice",False
+2145,"Senice na Hané zastávka",False
+2147,"Příkazy",False
+2148,"Skrbeň",False
+2149,"Horka nad Moravou",False
+2150,"Olomouc-Řepčín",False
+2151,"Olomouc-Hejčín",False
+2152,"Olomouc město",False
+2153,"Olomouc-Nová Ulice",False
+2154,"Olomouc-Smetanovy sady",False
+2155,"Červenka zastávka",False
+2156,"Litovel",False
+2159,"Zborovice zastávka",False
+2160,"Zdounky",False
+2161,"Šelešovice",False
+2162,"Jarohněvice",False
+2163,"Kotojedy",False
+2164,"Kroměříž-Oskol",False
+2165,"Náměšť na Hané",False
+2167,"Prostějov místní nádraží",False
+2168,"Kostelec na Hané",False
+2169,"Čelechovice na Hané",False
+2170,"Kaple",False
+2171,"Třebčín",False
+2172,"Slatinice",False
+2174,"Zádveřice",False
+2175,"Lípa nad Dřevnicí",False
+2176,"Želechovice nad Dřevnicí",False
+2177,"Zlín-Příluky",False
+2178,"Zlín-Podvesná",False
+2179,"Zlín-Dlouhá",False
+2181,"Knínice u Boskovic",False
+2182,"Šebetov",False
+2183,"Cetkovice",False
+2185,"Světlá nad Sázavou město",False
+2186,"Dolní Březinka",False
+2187,"Mrzkovice",False
+2188,"Smrčná",False
+2189,"Stvořidla",False
+2190,"Vilémovice",False
+2191,"Horní Ledeč",False
+2192,"Dvořisko",False
+2193,"Slatina u Vysokého Mýta",False
+2196,"Džbánov",False
+2197,"Hrušová",False
+2198,"Cerekvice nad Loučnou",False
+2199,"Cerekvice nad Loučnou zastávka",False
+2200,"Řídký",False
+2201,"Tržek",False
+2202,"Litomyšl-Nedošín",False
+2203,"Litomyšl zastávka",False
+2205,"Svitavy zastávka",False
+2206,"Vendolí",False
+2207,"Vendolí zastávka",False
+2208,"Květná",False
+2209,"Květná zastávka",False
+2210,"Pomezí",False
+2211,"Pomezí zastávka",False
+2212,"Rudná pod Pradědem",False
+2213,"Světlá Hora",False
+2214,"Rudná pod Pradědem zastávka",False
+2216,"Hrabačov",False
+2217,"Víchová nad Jizerou",False
+2218,"Horní Sytová",False
+2219,"Poniklá",False
+2220,"Poniklá zastávka",False
+2221,"Jablonec nad Jizerou-Hradsko",False
+2224,"Činěves",False
+2225,"Dymokury",False
+2226,"Svídnice",False
+2227,"Trutnov zastávka",False
+2228,"Lhota u Trutnova",False
+2229,"Petříkovice",False
+2230,"Chvaleč",False
+2231,"Radvanice",False
+2232,"Janovice u Trutnova",False
+2233,"Hodkovice u Trutnova",False
+2236,"Závratec",False
+2237,"Žlebské Chvalovice",False
+2238,"Ronov nad Doubravou zastávka",False
+2239,"Ronov nad Doubravou",False
+2240,"Žleby zastávka",False
+2241,"Žleby",False
+2242,"Skovice",False
+2243,"Vrdy-Koudelov",False
+2245,"Dolík",False
+2246,"Petrkov",False
+2247,"Lípa",False
+2248,"Radňov",False
+2249,"Herálec",False
+2250,"Slavníč",False
+2251,"Kamenice u Humpolce",False
+2252,"Plačkov",False
+2255,"Žim",False
+2256,"Bořislav",False
+2257,"Žalany zastávka",False
+2258,"Žalany",False
+2259,"Hradiště v Čechách",False
+2260,"Bystřany v Čechách",False
+2261,"Prosetice",False
+2262,"Teplice zámecká zahrada",False
+2263,"Lovosice zastávka",False
+2264,"Velemín",False
+2266,"Velemín, Dobkovičky",False
+2267,"Oparno",False
+2269,"Hejnice",False
+2270,"Lužec pod Smrkem",False
+2271,"Luh pod Smrkem",False
+2272,"Kadaň-Bystřice",False
+2274,"Senomaty",False
+2275,"Šanov",False
+2276,"Pšovlky",False
+2277,"Švihov u Jesenice",False
+2278,"Oráčov",False
+2279,"Kosobody",False
+2281,"Krty",False
+2282,"Malměřice",False
+2283,"Ležky",False
+2285,"Lubenec zastávka",False
+2286,"Libkovice",False
+2288,"Protivec",False
+2289,"Záhořice",False
+2291,"Borek u Žlutic",False
+2292,"Štědrá",False
+2293,"Smilov",False
+2294,"Luhov",False
+2295,"Toužim",False
+2296,"Poseč",False
+2297,"Otročín",False
+2298,"Krupá",False
+2299,"Mutějovice zastávka",False
+2300,"Milostín",False
+2302,"Sádek u Žatce",False
+2303,"Želeč",False
+2304,"Měcholupy",False
+2305,"Holedeček",False
+2306,"Veletice",False
+2307,"Dobříčany",False
+2308,"Trnovany",False
+2309,"Chomutov-Písečná",False
+2311,"Svatava",False
+2312,"Svatava zastávka z",False
+2313,"Luh nad Svatavou z",False
+2314,"Hřebeny",False
+2315,"Oloví",False
+2316,"Rotava",False
+2317,"Kraslice př. nz",False
+2319,"Stará Role",False
+2321,"Nová Role zastávka",False
+2322,"Nejdek-Suchá z",False
+2325,"Vysoká Pec",False
+2328,"Nejdek-Sejfy",False
+2329,"Nejdek-Oldřichov",False
+2330,"Pernink",False
+2331,"Horní Blatná",False
+2332,"Potůčky zastávka",False
+2334,"Potůčky státní hranice",False
+2335,"Vojtanov obec",False
+2336,"Hazlov",False
+2339,"Aš předměstí",False
+2340,"Štítary",False
+2341,"Podhradí",False
+2342,"Studánka",False
+2344,"Křenovy",False
+2345,"Semošice-Peřina",False
+2346,"Semošice",False
+2348,"Mašovice",False
+2349,"Meclov",False
+2350,"Ohnišťovice",False
+2351,"Zámělíč",False
+2353,"Hrádek u Sušice",False
+2354,"Mokrosuky",False
+2355,"Kolinec",False
+2356,"Malonice",False
+2357,"Nemilkov",False
+2358,"Běšiny Eurocamp",False
+2359,"Běšiny",False
+2360,"Neznašovy",False
+2361,"Vrhaveč",False
+2362,"Luby u Klatov",False
+2363,"Klatovy město",False
+2364,"Žichovice",False
+2365,"Velké Hydčice",False
+2367,"Dubová Lhota",False
+2368,"Úborsko",False
+2369,"Pocinovice",False
+2370,"Loučim",False
+2371,"Dobříkov na Šumavě",False
+2372,"Chodská Lhota",False
+2373,"Kdyně",False
+2374,"Starec",False
+2375,"Kout na Šumavě",False
+2376,"Spáňov",False
+2378,"Želina",False
+2379,"Hradec u Kadaně",False
+2388,"Sedlecko",False
+2389,"Střapole",False
+2390,"Všenice",False
+2391,"Dolní Stupno",False
+2392,"Stupno",False
+2393,"Bezděkov u Radnic",False
+2394,"Břasy",False
+2396,"Blahousty",False
+2397,"Trpísty",False
+2398,"Lomnička",False
+2399,"Cebiv",False
+2400,"Strahov",False
+2401,"Břetislav",False
+2402,"Kokašice",False
+2403,"Konstantinovy Lázně",False
+2406,"Pražák",False
+2407,"Svinětice",False
+2408,"Bavorov",False
+2409,"Blanice",False
+2410,"Strunkovice nad Blanicí",False
+2411,"Husinec",False
+2413,"Prachatice lázně",False
+2414,"Rohanov",False
+2415,"Chroboly",False
+2416,"Ovesné u Prachatic",False
+2417,"Skříněřov",False
+2418,"Zbytiny",False
+2419,"Spálenec",False
+2420,"Radošovice",False
+2421,"Přední Zborovice",False
+2422,"Strunkovice nad Volyňkou obec",False
+2423,"Strunkovice nad Volyňkou",False
+2424,"Hoštice u Volyně",False
+2425,"Volyně",False
+2426,"Nišovice",False
+2427,"Malenice nad Volyňkou",False
+2428,"Lčovice",False
+2429,"Čkyně",False
+2430,"Bohumilice v Čechách zastávka",False
+2431,"Bohumilice v Čechách",False
+2433,"Vimperk zastávka",False
+2434,"Lipka",False
+2435,"Kubova Huť",False
+2436,"Horní Vltavice",False
+2437,"Zátoň",False
+2438,"Zátoň-Boubín",False
+2440,"Lenora zastávka",False
+2441,"Soumarský Most",False
+2442,"Radim",False
+2443,"Chotutice",False
+2444,"Chroustov",False
+2445,"Vrbčany",False
+2448,"Žabonosy",False
+2449,"Zalešany",False
+2452,"Bošice zastávka",False
+2453,"Toušice",False
+2454,"Zásmuky",False
+2455,"Bečváry",False
+2456,"Mochov zastávka",False
+2458,"Roudnice nad Labem-Bezděkov",False
+2459,"Roudnice nad Labem město",False
+2460,"Roudnice nad Labem-Hracholusky",False
+2461,"Kleneč",False
+2462,"Vražkov",False
+2463,"Charvatce",False
+2464,"Mšené Lázně",False
+2465,"Martiněves u Libochovic",False
+2466,"Vrbka",False
+2467,"Budyně nad Ohří",False
+2468,"Břežany nad Ohří",False
+2469,"Žabovřesky nad Ohří",False
+2470,"Poláky",False
+2471,"Pětipsy",False
+2472,"Vilémov u Kadaně",False
+2473,"Vilémov u Kadaně město",False
+2474,"Radonice u Kadaně",False
+2475,"Ždov",False
+2477,"Vitčice",False
+2478,"Chotěbudice",False
+2480,"Vysoké Třebušice",False
+2481,"Kaštice kolej 3a",False
+2482,"Kylešovice",False
+2483,"Otice",False
+2484,"Slavkov u Opavy",False
+2485,"Štáblovice",False
+2486,"Dolní Životice",False
+2487,"Litultovice",False
+2488,"Mladecko",False
+2489,"Jakartovice",False
+2491,"Jackov",False
+2492,"Dědice",False
+2493,"Rácovice",False
+2494,"Třebelovice",False
+2495,"Lhotice u Jemnice",False
+2497,"Tábor-Měšice",False
+2498,"Smyslov",False
+2499,"Dobronice u Chýnova",False
+2500,"Chýnov",False
+2501,"Pořín",False
+2502,"Obrataň",False
+2503,"Šimpach",False
+2505,"Leskovice",False
+2506,"Nová Cerekev",False
+2507,"Vlásenice",False
+2509,"Rynárec",False
+2510,"Zajíčkov",False
+2511,"Dobrá Voda u Pelhřimova",False
+2512,"Nová Buková",False
+2513,"Hříběcí",False
+2514,"Uhřičice obec",False
+2515,"Lobodice",False
+2516,"Oplocany",False
+2519,"Loučovice zastávka",False
+2520,"Loučovice",False
+2521,"Čertova Stěna",False
+2523,"Těchoraz",False
+2524,"Herbertov",False
+2525,"Rožmberk nad Vltavou",False
+2526,"Trhový Štěpánov",False
+2527,"Zdislavice",False
+2528,"Bolina",False
+2529,"Vlašim zastávka",False
+2531,"Znosim",False
+2532,"Domašín",False
+2533,"Lhota Veselka",False
+2534,"Městečko u Benešova",False
+2535,"Postupice",False
+2536,"Dobříčkov",False
+2537,"Struhařov",False
+2538,"Myslíč",False
+2539,"Benešov-Černý les z",False
+2540,"Čelákovice zastávka",False
+2541,"Lázně Toušeň",False
+2542,"Brandýs nad Labem zastávka",False
+2543,"Brandýs nad Labem-Zápská",False
+2545,"Polerady nad Labem",False
+2546,"Kostelec nad Labem",False
+2547,"Jiřice",False
+2548,"Lobkovice",False
+2549,"Neratovice město",False
+2550,"Neratovice výh.č.104",False
+2552,"Solnice zastávka",False
+2554,"Vlaské",False
+2555,"Podlesí",False
+2556,"Červený Potok",False
+2557,"Prostřední Lipka",False
+2559,"Bohušov",False
+2560,"Koberno",False
+2561,"Slezské Rudoltice",False
+2562,"Amalín",False
+2563,"Horní Povelice",False
+2564,"Dívčí Hrad",False
+2565,"Liptaň",False
+2567,"Kraslice st.hr.",False
+2568,"Kraslice-P.vlekem z",False
+2569,"Aš státní hranice",False
+2570,"Varnsdorf státní hranice",False
+2572,"Dolní Podluží",False
+2573,"Jiřetín pod Jedlovou",False
+2574,"Horní Podluží",False
+2575,"Varnsdorf staré nádraží",False
+2577,"Kamenice nad Lipou",False
+2578,"Včelnička",False
+2579,"Benešov n.Lipou z",False
+2580,"Chválkov",False
+2581,"Dobešov z",False
+2582,"Černovice u Tábora",False
+2583,"Střítež u Černovic z",False
+2584,"Křeč",False
+2585,"Sudkův Důl z",False
+2586,"Obrataň zast. z",False
+2588,"Rodinov z",False
+2589,"Žďár u Kam.n.Lipou z",False
+2590,"Nová Včelnice",False
+2591,"Nekrasín z",False
+2592,"Lovětín obec z",False
+2593,"Lovětín",False
+2594,"Dolní Radouň z",False
+2595,"Horní Skrýchov",False
+2597,"Jindřiš",False
+2598,"Jindřiš zastávka",False
+2599,"Blažejov",False
+2600,"Malý Ratmírov z",False
+2601,"Střížovice",False
+2602,"Kunžak-Lomy",False
+2603,"Kaproun",False
+2604,"Senotín",False
+2605,"Hůrky",False
+2606,"Albeř",False
+2607,"Nová Bystřice",False
+2608,"Kolín místní nádraží",False
+2609,"Hluboký Důl",False
+2610,"Červené Pečky",False
+2611,"Ratboř",False
+2612,"Kořenice",False
+2613,"Chotouchov",False
+2614,"Pučery",False
+2615,"Drahobudice",False
+2616,"Hatě",False
+2617,"Chmeliště",False
+2619,"Mitrov",False
+2620,"Mirošovice u Rataj nad Sázavou",False
+2621,"Rataje nad Sázavou předměstí",False
+2622,"Rataje nad Sázavou",False
+2623,"Ženklava",False
+2624,"Brumov střed",False
+2625,"Brumov",False
+2626,"Návojná",False
+2628,"Poteč",False
+2629,"Valašské Příkazy",False
+2630,"Studénka město",False
+2631,"Velké Albrechtice",False
+2633,"Hladké Životice místní nádraží",False
+2634,"Stachovice",False
+2636,"Branka u Opavy",False
+2638,"Ondřejovice",False
+2639,"Ondřejovice zastávka",False
+2642,"Mladeč jeskyně",False
+2643,"Chudobín",False
+2644,"Bzenec-Olšovec",False
+2645,"Poštorná",False
+2646,"Charvátská Nová Ves",False
+2647,"Lednice rybníky",False
+2649,"Lutotín",False
+4003,"Ostrava - Karolina",True
+2650,"Zdětín u Prostějova",False
+2651,"Ptení",False
+2652,"Stražisko",False
+2653,"Čunín",False
+2654,"Křemenec",False
+2655,"Konice",False
+2656,"Jesenec",False
+2658,"Šubířov",False
+2659,"Nectava",False
+2661,"Mezihoří",False
+2662,"Městečko Trnávka",False
+2663,"Rozstání",False
+2664,"Linhartice",False
+2666,"Kunčina",False
+2667,"Mladějov na Moravě",False
+2668,"Trpík",False
+2669,"Anenská Studánka",False
+2672,"Martinice u Velkého Meziříčí",False
+2675,"Oslavice",False
+2676,"Oslavička",False
+2677,"Vlčatín",False
+2678,"Rudíkov",False
+2679,"Budišov u Třebíče",False
+2680,"Kojatín",False
+2681,"Pozďatín",False
+2683,"Jeníkovice",False
+2684,"Choltice",False
+2685,"Veselí u Přelouče",False
+2686,"Valy u Přelouče zastávka",False
+2691,"Chrudim město",False
+2692,"Tuněchody",False
+2693,"Úhřetice",False
+2694,"Vejvanovice",False
+2695,"Hrochův Týnec",False
+2696,"Bořice",False
+2698,"Pěčín",False
+2699,"Slatina nad Zdobnicí",False
+2700,"Rybná nad Zdobnicí",False
+2701,"Peklo nad Zdobnicí",False
+2702,"Vamberk",False
+2704,"Křenov",False
+2705,"Bernartice u Trutnova",False
+2707,"Královec státní hranice",False
+2708,"Meziměstí státní hranice",False
+2709,"Třebenice",False
+2710,"Třebenice město",False
+2711,"Dlažkovice",False
+2712,"Podsedice",False
+2714,"Semeč",False
+2715,"Židovice",False
+2716,"Libčeves",False
+2717,"Sinutec",False
+2718,"Bělušice",False
+2719,"Skršín",False
+2720,"Sedlec u Obrnic",False
+2721,"Olešná u Rakovníka",False
+2722,"Chrášťany zastávka",False
+2723,"Kněževes",False
+2724,"Přílepy",False
+2725,"Kolešovice",False
+2726,"Hostivice-U hřbitova",False
+2727,"Hostivice-Litovice",False
+2728,"Chýně",False
+2729,"Chýně jih",False
+2730,"Staré Křečany",False
+2731,"Dolní Křečany",False
+2732,"Vrchotovy Janovice",False
+2733,"Voračice",False
+2734,"Minartice",False
+2735,"Štětkovice",False
+2736,"Kosova Hora",False
+2738,"Jiřetín pod Bukovou",False
+2739,"Tanvaldský Špičák",False
+2740,"Antonínov",False
+2743,"Sadov",False
+2744,"Sadov-Podlesí",False
+2745,"Velký Rybník",False
+2746,"Hroznětín",False
+2747,"Hroznětín zastávka",False
+2750,"Božičany",False
+2751,"Mírová",False
+2752,"Chodov-úvrať km 0.4",False
+2755,"Dolní Luby",False
+2756,"Nový Kostel",False
+2757,"Velký Luh",False
+2758,"Skalná",False
+2759,"Vonšov",False
+2760,"Nový Drahov",False
+2761,"Třebeň",False
+2762,"Kamenný Újezd u Nýřan",False
+2763,"Blatnice u Nýřan",False
+2764,"Rochlov",False
+2765,"Přehýšov",False
+2767,"Běleč",False
+2769,"Skuhrov pod Brdy",False
+2770,"Nesvačily",False
+2771,"Všeradice",False
+2772,"Vižina",False
+2773,"Osov",False
+2774,"Hostomice pod Brdy",False
+2775,"Radouš",False
+2776,"Neumětely",False
+2779,"Příkosice zastávka",False
+2781,"Mešno",False
+2782,"Lipnice",False
+2783,"Kornatice",False
+2784,"Kornatice rybník",False
+2785,"Šťáhlavice",False
+2786,"Rokycany předměstí",False
+2787,"Kamenný Újezd u Rokycan",False
+2788,"Nová Huť",False
+2789,"Hrádek u Rokycan",False
+2790,"Tchořovice",False
+2791,"Lnáře",False
+2792,"Hradiště u Blatné",False
+2794,"Kasejovice zastávka",False
+2795,"Životice",False
+2796,"Kotouň",False
+2797,"Želvice",False
+2798,"Třebčice",False
+2799,"Praha-Malešice",False
+2800,"Horky u Tábora",False
+2801,"Slapy",False
+2802,"Libějice",False
+2803,"Malšice",False
+2804,"Čenkov u Malšic",False
+2805,"Třebelice",False
+2806,"Všechlapy",False
+2807,"Bechyňská Smoleč",False
+2808,"Sudoměřice u Bechyně",False
+2809,"Bežerovice",False
+2810,"Bechyně zastávka",False
+2826,"Głuchołazy",False
+2827,"Szkl. Por. Jakuszyce",False
+2828,"Szkl. Poręba Huta",False
+2829,"Szkl. Poręba Górna",False
+2830,"Lubawka",False
+2831,"Zittau",False
+2832,"Mittelherwigsdorf/S.",False
+2833,"Hainewalde",False
+2834,"Grossschönau/S.",False
+2843,"Klingenthal",False
+2844,"Porajów",False
+2845,"Zittau Gr.",False
+2850,"Hoštejn",False
+2851,"Krasíkov",False
+2852,"Brandýs nad Orlicí",False
+2867,"Oldřichov kol.1b,2b",False
+2868,"Týn nad Vltavou",False
+2869,"Bohunice",False
+2870,"Temelín",False
+2871,"Lhota pod Horami",False
+2872,"Chvalešovice",False
+2873,"Záboří u Číčenic",False
+2874,"Újezdec u Číčenic",False
+2883,"Praha-Eden",False
+2886,"Sedlnice",False
+2889,"Praha-Holešovice zast.",False
+2899,"Most nové nádraží",False
+2904,"Libějovice",False
+2905,"Malovice u Netolic",False
+2906,"Holečkov",False
+2907,"Netolice zastávka",False
+2908,"Netolice",False
+2909,"Ostrava báňské n. VOK",False
+2920,"Jílové u Děčína",False
+2921,"Libouchec",False
+2922,"Malé Chvojno",False
+2923,"Děčín zastávka",False
+2924,"Děčín-Oldřichov",False
+2925,"Děčín-Bynov",False
+2926,"Martiněves u Děčína",False
+2927,"Modrá u Děčína",False
+2928,"Kamenec",False
+2930,"Brno-Starý Lískovec",False
+2931,"Plzeň-Slovany",False
+2934,"Ostopovice",False
+2936,"Lampertice",False
+2937,"Žacléř",False
+2938,"Bochov",False
+2943,"Kostelec u Heřmanova Městce",False
+2944,"Prachovice",False
+2945,"Řítonice",False
+2946,"Domousnice",False
+2947,"Rabakov",False
+2948,"Rokytňany",False
+2949,"Osenice",False
+2950,"Dětenice",False
+2951,"Libáň",False
+2952,"Ledkov",False
+2954,"Račice nad Trotinou",False
+2957,"Myslkovice",False
+2959,"Pha-Rajská zahrada z",False
+2962,"Stéblová obec",False
+2964,"Chlumec u Chabařovic",False
+2965,"Unčín",False
+2966,"Bohosudov zastávka",False
+4004,"Most - Souš",True
+2967,"Krupka město",False
+2968,"Krupka",False
+2969,"Novosedlice",False
+2970,"Teplice lesní brána",False
+3,"Břeclav",True
+6,"Podivín",True
+7,"Rakvice",True
+8,"Zaječí",True
+9,"Šakvice",True
+12,"Vranovice",True
+18,"Modřice",True
+21,"Brno hl.n.",True
+22,"Brno-Židenice",True
+25,"Adamov",True
+27,"Blansko",True
+28,"Blansko město",True
+30,"Rájec-Jestřebí",True
+32,"Skalice n. Svit.",True
+36,"Letovice",True
+39,"Březová n.Svitavou",True
+43,"Svitavy",True
+47,"Česká Třebová",True
+49,"Ústí nad Orlicí město",True
+50,"Ústí nad Orlicí",True
+54,"Choceň",True
+60,"Moravany",True
+64,"Pardubice hl.n.",True
+69,"Přelouč",True
+71,"Řečany n.L.",True
+79,"Kolín",True
+84,"Pečky",True
+86,"Poříčany",True
+88,"Český Brod",True
+97,"Praha-Libeň",True
+98,"Praha hl.n.",True
+100,"Moravská Nová Ves",True
+102,"Hodonín",True
+106,"Moravský Písek",True
+110,"Staré Město u Uh. Hradiště",True
+114,"Otrokovice",True
+117,"Hulín",True
+122,"Přerov",True
+125,"Lipník nad Bečvou",True
+127,"Hranice na Moravě",True
+131,"Suchdol nad Odrou",True
+133,"Studénka",True
+136,"Ostrava-Svinov",True
+138,"Ostrava hl.n.",True
+141,"Bohumín",True
+146,"Petrovice u Karviné",True
+152,"Olomouc hl.n.",True
+156,"Červenka",True
+158,"Mohelnice",True
+160,"Zábřeh na Moravě",True
+170,"Rudoltice v Čechách",True
+171,"Třebovice v Čechách",True
+173,"Střelná",True
+174,"Horní Lideč",True
+180,"Vsetín",True
+184,"Valašské Meziříčí",True
+196,"Mosty u Jablunkova",True
+198,"Návsí",True
+200,"Bystřice",True
+202,"Třinec centrum",True
+203,"Třinec",True
+211,"Karviná hl.n.",True
+212,"Praha-Holešovice",True
+213,"Praha-Podbaba",True
+215,"Roztoky u Prahy",True
+222,"Kralupy n.V.",True
+227,"Vraňany",True
+231,"Hněvice",True
+235,"Roudnice nad Labem",True
+239,"Bohušovice nad Ohří",True
+243,"Lovosice",True
+250,"Ústí n.L. hl.n.",True
+261,"Děčín hl.n.",True
+266,"Dolní Žleb",True
+269,"Horní Dvořiště",True
+270,"Rybník",True
+274,"Kaplice",True
+277,"Velešín město",True
+284,"České Budějovice",True
+297,"Veselí nad Lužnicí",True
+299,"Soběslav",True
+302,"Planá nad Lužnicí",True
+303,"Sezimovo Ústí",True
+305,"Tábor",True
+306,"Chotoviny",True
+313,"Votice",True
+314,"Olbramovice",True
+317,"Benešov u Prahy",True
+319,"Čerčany",True
+325,"Strančice",True
+327,"Říčany",True
+331,"Praha-Hostivař",True
+333,"Praha-Vršovice",True
+334,"Praha-Smíchov",True
+336,"Praha-Radotín",True
+4005,"Litvínov - Citadela",True
+341,"Řevnice",True
+342,"Zadní Třebaň",True
+345,"Beroun",True
+349,"Zdice",True
+352,"Hořovice",True
+354,"Kařez",True
+360,"Rokycany",True
+364,"Plzeň hl.n.",True
+365,"Plzeň-Jižní Předměstí",True
+369,"Nýřany",True
+372,"Stod",True
+374,"Holýšov",True
+376,"Staňkov",True
+380,"Domažlice",True
+381,"Domažlice město",True
+386,"Opava východ",True
+398,"Kozolupy",True
+401,"Pňovany",True
+404,"Stříbro",True
+406,"Svojšín",True
+410,"Planá u M.L.",True
+412,"Mariánské Lázně",True
+414,"Lázně Kynžvart",True
+420,"Cheb",True
+422,"Františkovy Lázně",True
+434,"Český Krumlov",True
+435,"Teplice v Čechách",True
+436,"Proboštov",True
+437,"Krupka-Bohosudov",True
+441,"Ústí n.L. západ",True
+442,"Klášterec nad Ohří",True
+443,"Kadaň-Prunéřov",True
+445,"Chomutov",True
+446,"Chomutov město",True
+447,"Jirkov zastávka",True
+449,"Třebušice",True
+450,"Most",True
+453,"Bílina",True
+456,"Duchcov",True
+461,"Kynšperk n.O.",True
+467,"Sokolov",True
+469,"Nové Sedlo u Lokte",True
+470,"Chodov",True
+472,"Karlovy Vary",True
+475,"Ostrov nad Ohří",True
+483,"Střelice",True
+487,"Zastávka u Brna",True
+489,"Rapotice",True
+491,"Náměšť nad Oslavou",True
+492,"Studenec",True
+495,"Třebíč",True
+498,"Okříšky",True
+506,"Jihlava",True
+509,"Kardašova Řečice",True
+512,"Jindřichův Hradec",True
+518,"Počátky-Žirovnice",True
+522,"Horní Cerekev",True
+524,"Batelov",True
+525,"Dolní Cerekev",True
+526,"Kostelec u Jihlavy",True
+530,"Jihlava město",True
+533,"Zliv",True
+535,"Dívčice",True
+537,"Číčenice",True
+539,"Protivín zastávka",True
+540,"Protivín",True
+543,"Ražice",True
+547,"Strakonice",True
+552,"Horažďovice předměstí",True
+559,"Nepomuk",True
+562,"Blovice",True
+564,"Nezvěstice",True
+569,"České Velenice",True
+573,"Suchdol nad Lužnicí zastávka",True
+575,"Majdalena",True
+577,"Třeboň lázně",True
+578,"Třeboň",True
+583,"Plzeň zastávka",True
+587,"Dobřany",True
+588,"Chlumčany u Dobřan",True
+589,"Přeštice-Zastávka",True
+590,"Přeštice",True
+591,"Lužany",True
+592,"Borovy",True
+594,"Švihov u Klatov",True
+597,"Klatovy",True
+598,"Ž. Ruda-Alžbětín",True
+599,"Železná Ruda centrum",True
+600,"Železná Ruda město",True
+601,"Špičák",True
+602,"Hojsova Stráž-Brčálník",True
+603,"Hamry-Hojsova Stráž",True
+604,"Zelená Lhota",True
+605,"Dešenice",True
+606,"Nýrsko",True
+608,"Janovice nad Úhlavou",True
+609,"Bezděkov u Klatov",True
+612,"Velký Osek",True
+614,"Poděbrady",True
+617,"Nymburk hl.n.",True
+622,"Lysá nad Labem",True
+625,"Stará Boleslav",True
+628,"Všetaty",True
+630,"Mělník",True
+633,"Štětí",True
+638,"Litoměřice město",True
+642,"Ústí n.L.-Střekov",True
+643,"Luhačovice",True
+646,"Újezdec u Luhačovic",True
+647,"Uherský Brod",True
+652,"Kunovice",True
+653,"Uherské Hradiště",True
+654,"Veselí nad Moravou",True
+660,"Zlín střed",True
+668,"Šumperk",True
+670,"Bludov",True
+671,"Postřelmov",True
+672,"Zábřeh na Moravě zastávka",True
+681,"Prostějov hl.n.",True
+686,"Nezamyslice",True
+688,"Ivanovice na Hané",True
+690,"Vyškov na Moravě",True
+693,"Rousínov",True
+695,"Křenovice hor.n.",True
+698,"Újezd u Brna",True
+699,"Sokolnice-Telnice",True
+700,"Brno-Chrlice",True
+704,"Šlapanice",True
+707,"Trutnov hl.n.",True
+708,"Trutnov střed",True
+712,"Velké Svatoňovice",True
+713,"Malé Svatoňovice",True
+714,"Rtyně v Podkrkonoší",True
+715,"Rtyně v Podkrkonoší zastávka",True
+716,"Červený Kostelec",True
+717,"Olešnice",True
+719,"Starkoč",True
+720,"Česká Skalice",True
+722,"Rychnovek",True
+723,"Jaroměř",True
+726,"Smiřice",True
+729,"Hradec Král. hl.n.",True
+737,"Chlumec nad Cidlinou",True
+740,"Dobšice nad Cidlinou",True
+747,"Letohrad",True
+749,"Žamberk",True
+755,"Doudleby nad Orlicí",True
+758,"Častolovice",True
+761,"Týniště nad Orlicí",True
+769,"Dobronín",True
+773,"Havlíčkův Brod",True
+777,"Světlá n.S.",True
+783,"Golčův Jeníkov město",True
+787,"Čáslav",True
+790,"Kutná Hora hl.n.",True
+792,"Žďár n.S.",True
+797,"Přibyslav",True
+803,"Brno-Kr. Pole",True
+806,"Kuřim",True
+809,"Tišnov",True
+813,"Vlkov u Tišnova",True
+816,"Křižanov",True
+821,"Ostrava-Stodolní",True
+822,"Ostrava střed",True
+824,"Ostrava-Kunčice",True
+827,"Havířov",True
+833,"Vlárský průsmyk",True
+835,"Bylnice",True
+839,"Slavičín",True
+841,"Pitín zastávka",True
+842,"Bojkovice město",True
+843,"Bojkovice",True
+855,"Kaznějov",True
+856,"Plasy",True
+859,"Mladotice",True
+861,"Žihle",True
+863,"Blatno u Jesenice",True
+864,"Stebno",True
+865,"Petrohrad",True
+866,"Kryry",True
+867,"Vroutek",True
+868,"Podbořany",True
+874,"Žatec západ",True
+875,"Žatec",True
+877,"Hořetice",True
+880,"Březno u Chomutova",True
+883,"Chropyně",True
+884,"Kojetín",True
+887,"Praha-Vysočany",True
+889,"Praha-Kbely",True
+890,"Praha-Čakovice",True
+895,"Neratovice sídliště",True
+896,"Neratovice",True
+897,"Tišice",True
+898,"Byšice",True
+905,"Mladá Boleslav hl.n.",True
+907,"Bakov nad Jizerou",True
+908,"Bakov nad Jizerou město",True
+909,"Mnichovo Hradiště",True
+914,"Turnov",True
+915,"Dolánky",True
+916,"Malá Skála",True
+918,"Železný Brod",True
+919,"Spálov",True
+920,"Jesenný",True
+922,"Plavy",True
+924,"Velké Hamry město",True
+925,"Tanvald",True
+926,"Písek",True
+931,"Čížová",True
+935,"Čimelice",True
+937,"Mirovice",True
+940,"Březnice",True
+945,"Příbram sídliště",True
+946,"Příbram",True
+948,"Jince",True
+950,"Lochovice",True
+955,"Nučice zastávka",True
+958,"Rudná u Prahy",True
+974,"Bělá pod Bezdězem",True
+976,"Bezděz",True
+978,"Doksy",True
+979,"Staré Splavy",True
+982,"Česká Lípa hl.n.",True
+983,"Česká Lípa střelnice",True
+984,"Skalice u České Lípy",True
+985,"Nový Bor",True
+986,"Svor",True
+988,"Jedlová",True
+989,"Chřibská",True
+990,"Rybniště",True
+991,"Krásná Lípa město",True
+992,"Krásná Lípa",True
+993,"Rumburk",True
+996,"Šluknov",True
+999,"Praha-Dejvice",True
+1000,"Praha-Veleslavín",True
+1002,"Hostivice",True
+1006,"Kladno",True
+1009,"Kačice",True
+1010,"Stochov",True
+1012,"Nové Strašecí",True
+1014,"Lužná u Rakovníka",True
+1016,"Rakovník",True
+1021,"Křivoklát",True
+1022,"Roztoky u Křivoklátu",True
+1024,"Zbečno",True
+1027,"Nižbor",True
+1033,"Lhotka u Mělníka",True
+1036,"Kanina",True
+1037,"Mšeno",True
+1042,"Dolní Bousov",True
+1043,"Sobotka",True
+1046,"Mladějov v Čechách",True
+1048,"Libuň",True
+1052,"Jičín",True
+1053,"Liberec",True
+1060,"Křižany",True
+1061,"Zdislava",True
+1064,"Jablonné v Podještědí",True
+1066,"Brniště",True
+1068,"Pertoltice pod Ralskem",True
+1069,"Mimoň",True
+1070,"Zákupy-Božíkov",True
+1076,"Česká Kamenice",True
+1080,"Týnec nad Sázavou",True
+1085,"Jílové u Prahy",True
+1092,"Vrané nad Vltavou",True
+1102,"Lomnice nad Popelkou",True
+1106,"Stará Paka",True
+1109,"Košťálov",True
+1111,"Semily",True
+1113,"Sychrov",True
+1115,"Hodkovice nad Mohelkou",True
+1116,"Rychnov u Jabl.n.N.",True
+1130,"Lichkov",True
+1134,"Jablonné nad Orlicí",True
+1142,"Bělá nad Radbuzou",True
+1154,"Mošnov, Ostrava Airport",True
+1157,"Opava západ",True
+1162,"Krnov-Cvilín",True
+1163,"Krnov",True
+1166,"Milotice nad Opavou",True
+1167,"Bruntál",True
+1168,"Valšov",True
+1169,"Lomnice u Rýmařova",True
+1170,"Dětřichov nad Bystřicí",True
+1171,"Moravský Beroun",True
+1172,"Domašov nad Bystřicí",True
+1175,"Hrubá Voda",True
+1177,"Hlubočky",True
+1179,"Hlubočky-Mariánské Údolí",True
+1187,"Pardubice-Rosice n.L.",True
+1190,"Čeperka",True
+1191,"Opatovice nad Labem",True
+1194,"Jaroměř zastávka",True
+4006,"Plzeň - Bolevec",True
+1197,"Dvůr Králové nad Labem",True
+1198,"Bílá Třemešná",True
+1199,"Mostek",True
+1202,"Horka u Staré Paky",True
+1210,"Benešov n.Pl.",True
+1213,"Děčín východ",True
+1214,"Jeseník",True
+1216,"Lipová Lázně",True
+1224,"Hanušovice",True
+1239,"Uničov",True
+1244,"Šternberk",True
+1246,"Bohuňovice",True
+1252,"Jindřichov ve Slezsku",True
+1255,"Mikulovice",True
+1264,"Chrudim",True
+1265,"Slatiňany",True
+1271,"Žďárec u Skutče",True
+1275,"Hlinsko v Č.",True
+1291,"Kopidlno",True
+1293,"Rožďalovice",True
+1298,"Praha Masarykovo nádraží",True
+1299,"Kralupy nad Vltavou předměstí",True
+1307,"Slaný",True
+1309,"Zlonice",True
+1311,"Klobuky v Čechách",True
+1314,"Peruc",True
+1318,"Louny",True
+1319,"Mladá Boleslav město",True
+1321,"Kladno-Dubí",True
+1323,"Kladno-Ostrovec",True
+1325,"Rakovník západ",True
+1337,"Blatná",True
+1338,"Zruč n.S.",True
+1339,"Zruč nad Sázavou zastávka",True
+1352,"Ledečko",True
+1354,"Sázava",True
+1365,"Odry",True
+1370,"Vítkov",True
+1373,"Budišov nad Budišovkou",True
+1379,"Frýdek-Místek",True
+1382,"Frýdlant nad Ostravicí",True
+1385,"Frenštát p.R.",True
+1391,"Kopřivnice",True
+1392,"Štramberk",True
+1393,"Rožnov p.R.",True
+1403,"Osíčko",True
+1405,"Bystřice pod Hostýnem",True
+1409,"Holešov",True
+1411,"Kroměříž",True
+1418,"Božejovice",True
+1420,"Milevsko",True
+1422,"Branice",True
+1425,"Červená nad Vltavou",True
+1429,"Písek město",True
+1433,"Moravské Bránice",True
+1435,"Moravský Krumlov",True
+1436,"Hrušovany nad Jevišovkou-Šanov",True
+1440,"Miroslav",True
+1442,"Bohutice",True
+1443,"Rakšice",True
+1448,"Mikulov na Moravě",True
+1456,"Znojmo",True
+1458,"Šatov",True
+1459,"Bzenec",True
+1463,"Kyjov",True
+1466,"Nemotice",True
+1468,"Nesovice",True
+1479,"N. Město na M.",True
+1483,"Bystřice nad Pernštejnem",True
+1486,"Nedvědice",True
+1491,"Frenštát p.R. město",True
+1492,"Veřovice",True
+1498,"Kobylí na Moravě",True
+1500,"Čejč",True
+1501,"Mutěnice zastávka",True
+1504,"Čermná nad Orlicí",True
+1505,"Borohrádek",True
+1515,"Kunčice nad Labem",True
+1517,"Martinice v Krkonoších",True
+1522,"Nová Paka",True
+1530,"Nový Bydžov",True
+1538,"Hněvčeves",True
+1542,"Hořice v Podkrkonoší",True
+1549,"Broumov",True
+1553,"Meziměstí",True
+1556,"Teplice nad Metují",True
+1562,"Hronov",True
+1566,"Náchod",True
+1568,"Václavice",True
+1577,"Teplice nad Metují město",True
+1579,"Adršpach",True
+1584,"Svoboda nad Úpou",True
+1585,"Telč",True
+1599,"Dačice",True
+1600,"Dačice město",True
+1605,"Slavonice",True
+1613,"Moravské Budějovice",True
+1625,"Panský",True
+1626,"Brtníky",True
+1628,"Mikulášovice střed",True
+1629,"Mikulášovice dol.n.",True
+1635,"Osek město",True
+1642,"Moldava v Krušných horách",True
+1643,"Dobříš",True
+1650,"Čisovice",True
+1667,"Kamenický Šenov nz",True
+1671,"Zbraslavice",True
+1682,"Kutná Hora město",True
+1688,"Čelákovice",True
+1690,"Milovice",True
+1702,"Smržovka",True
+1708,"Desná",True
+1709,"Desná-Riedlova vila",True
+1713,"Kořenov",True
+1714,"Harrachov",True
+1716,"Javorník nad Veličkou zastávka",True
+1717,"Velká nad Veličkou",True
+1723,"Strážnice",True
+1733,"Rýmařov",True
+1737,"Petrov nad Desnou",True
+1741,"Velké Losiny",True
+1746,"Kouty nad Desnou",True
+1749,"Ivančice",True
+1750,"Hustopeče u Brna",True
+1751,"Boskovice",True
+1752,"Židlochovice",True
+1755,"Holice",True
+1759,"Rychnov nad Kněž.",True
+1766,"Hrádek nad Nisou",True
+1768,"Skuteč",True
+1772,"Čachnov",True
+1773,"Pustá Kamenice",True
+1775,"Borová u Poličky",True
+1779,"Polička",True
+1784,"Plesná",True
+1788,"Velký Šenov",True
+1792,"Dolní Poustevna",True
+1794,"Dobruška",True
+1811,"Vejprty",True
+1815,"Městec Králové",True
+1817,"Vrchlabí",True
+1818,"Jilemnice",True
+1819,"Řepov",True
+1826,"Úštěk",True
+1831,"Litoměřice hor.n.",True
+1840,"Libochovice",True
+1841,"Libochovice město",True
+1849,"Louny město",True
+1851,"Postoloprty",True
+1856,"Raspenava",True
+1857,"Frýdlant v Č.",True
+1861,"Černousy",True
+1868,"Nové Město p.Sm.",True
+1869,"Jindřichovice p.Sm.",True
+1878,"Velké Březno",True
+1907,"Domoušice",True
+1910,"Hřivice",True
+1923,"Litvínov",True
+1928,"Karlovy Vary dolní n.",True
+1929,"Loket",True
+1940,"Bečov nad Teplou",True
+1942,"Krásný Jez",True
+1949,"Králíky",True
+1953,"Moravský Karlov",True
+1955,"Dolní Lipka",True
+1957,"Mlýnický Dvůr",True
+1963,"Tachov",True
+1970,"Poběžovice",True
+1982,"Chrást u Plzně zastávka",True
+1989,"Praha-Zličín",True
+1999,"Rožmitál p.Třemšínem",True
+2003,"Volary",True
+2005,"Černý Kříž",True
+2019,"Kájov",True
+2020,"Stožec",True
+2022,"Nové Údolí",True
+2039,"Ploužnice",True
+2047,"Ledeč n.S.",True
+2049,"Velvary",True
+2057,"Středokluky",True
+2059,"Noutonice",True
+2064,"Horní Beřkovice",True
+2068,"Straškov",True
+2069,"Bříza obec",True
+2076,"Lanškroun",True
+2081,"Hnojník",True
+2087,"Sobotín",True
+2091,"Ostravice",True
+2092,"Velké Karlovice",True
+2105,"Nový Jičín město",True
+2107,"Hlučín",True
+2112,"Kravaře ve Slezsku",True
+2116,"Chuchelná",True
+2119,"Vrbno pod Pradědem",True
+2136,"Javorník ve Sl.",True
+2140,"Staré Město p. Sněž.",True
+2141,"Litovel předměstí",True
+2146,"Senice na Hané",True
+2157,"Litovel město",True
+2158,"Zborovice",True
+2166,"Drahanovice",True
+2173,"Vizovice",True
+2180,"Mutěnice",True
+2184,"Velké Opatovice",True
+2194,"Vysoké Mýto",True
+2195,"Vysoké Mýto město",True
+2204,"Litomyšl",True
+2215,"Malá Morávka",True
+2222,"Jablonec nad Jizerou",True
+2223,"Rokytnice nad Jizerou",True
+2234,"Horní Adršpach",True
+2235,"Třemošnice",True
+2253,"Humpolec",True
+2254,"Radejčín",True
+2265,"Chotiměř",True
+2268,"Bílý Potok p.Sm.",True
+2273,"Kadaň",True
+2280,"Jesenice",True
+2284,"Lubenec",True
+2287,"Chyše",True
+2290,"Žlutice",True
+2301,"Deštnice",True
+2310,"Jirkov",True
+2318,"Kraslice",True
+2320,"Nová Role",True
+2323,"Nejdek",True
+2324,"Nejdek zastávka",True
+2326,"Nové Hamry",True
+2327,"Nejdek-Tisová",True
+2333,"Potůčky",True
+2337,"Aš",True
+2338,"Aš město",True
+2343,"Hranice v Čechách",True
+2347,"Horšovský Týn",True
+2352,"Sušice",True
+2366,"Horažďovice",True
+2377,"Kadaň předměstí",True
+2380,"Lubná",True
+2381,"Příčina",True
+2382,"Zavidov",True
+2383,"Všesulov",True
+2384,"Čistá",True
+2385,"Strachovice",True
+2386,"Kožlany",True
+2387,"Kralovice u Rakovníka",True
+2395,"Radnice",True
+2404,"Bezdružice",True
+2405,"Vodňany",True
+2412,"Prachatice",True
+2432,"Vimperk",True
+2439,"Lenora",True
+2446,"Plaňany",True
+2447,"Plaňany zastávka",True
+2450,"Bošice",True
+2451,"Kouřim",True
+2457,"Mochov",True
+2476,"Kadaňský Rohozec",True
+2479,"Krásný Dvůr",True
+2490,"Svobodné Heřmanice",True
+2496,"Jemnice",True
+2504,"Pacov",True
+2508,"Pelhřimov",True
+2517,"Tovačov",True
+2518,"Lipno nad Vltavou",True
+2522,"Vyšší Brod klášter",True
+2530,"Vlašim",True
+2544,"Brandýs nad Labem",True
+2551,"Rychnov n.K. zast.",True
+2553,"Solnice",True
+2558,"Osoblaha",True
+2571,"Varnsdorf",True
+2576,"Varnsdorf - pivovar Kocour",True
+2618,"Uhlířské Janovice",True
+2627,"Valašské Klobouky",True
+2632,"Bílovec",True
+2635,"Fulnek",True
+2637,"Hradec nad Moravicí",True
+2640,"Zlaté Hory",True
+2641,"Mladeč",True
+2648,"Lednice",True
+2657,"Dzbel",True
+2660,"Chornice",True
+2665,"Moravská Třebová",True
+2673,"Velké Meziříčí",True
+2674,"Velké Meziříčí zastávka",True
+2682,"Heřmanův Městec",True
+2697,"Rokytnice v Orl. horách",True
+2703,"Libeč",True
+2706,"Královec",True
+2713,"Třebívlice",True
+2737,"Sedlčany",True
+2741,"Josefův Důl",True
+2748,"Merklín",True
+2749,"Loket předměstí",True
+2753,"Horní Slavkov-Kounice",True
+2754,"Luby u Chebu",True
+2766,"Heřmanova Huť",True
+2768,"Liteň",True
+2777,"Mirošov",True
+2778,"Mirošov město",True
+2780,"Příkosice",True
+2793,"Kasejovice",True
+2811,"Bechyně",True
+2853,"Český Těšín",True
+2866,"Jeníkov-Oldřichov",True
+2882,"Praha-Zahradní Město",True
+2929,"Telnice",True
+4007,"Plzeň - Košutka",True
+4008,"Plzeň - Chodské náměstí",True
+2812,"Karlovy Vary-Aréna z",True
+471,"Karlovy Vary-Dvory",True
+4009,"Plzeň - Hlavní nádraží",True
+4010,"Most - Hlavní nádraží",True
+4011,"Litvínov - Nádraží",True
+4012,"Ostrava - Svinov mosty",True
+4013,"Ostrava - Hlavní nádraží",True
+4014,"Olomouc - Hlavní nádraží",True
+4015,"Liberec - Nádraží",True
+3000,"Praha – Památník prvního rozhlasového vysílání v ČSR",True
+3001,"Kumburk – zřícenina (vyhlídková věž)",True
+3002,"Holany – Ovčí lávka",True
+3003,"Rovensko pod Troskami – dřevěná zvonice",True
+3004,"Kámen republiky",True
+3005,"Kruh – Tuláčkův statek",True
+3006,"Stanový – rodný dům Antala Staška",True
+3007,"Staré Splavy – vyhlídka Miloše Formana",True
+3008,"Jindřichovice pod Smrkem – Žijící skanzen",True
+3009,"Košťálov – sokolovna",True
+3010,"Chrastava – transbordér",True
+3011,"Kamenický Šenov – Panská skála",True
+3012,"Zawidów (PL) – kostel sv. Josefa",True
+3013,"Vodní nádrž Souš (informační tabule)",True
+3014,"Hodkovice nad Mohelkou – kaple Kalvárie",True
+3015,"Sloní kameny",True
+3016,"Luž – vrchol",True
+3017,"Noviny pod Ralskem – průrva Ploučnice",True
+3018,"Sloup – skalní hrad (rozcestník)",True
+3019,"Tanvaldský Špičák – rozhledna",True
+3020,"Víchová nad Jizerou – kaple sv. Václava",True
+3021,"Pravda – zřícenina",True
+3022,"Sedm chlebů – skalní věž",True
+3023,"Prostřední Žleb – kaple Andělů strážných",True
+3024,"Tanečnice – rozhledna",True
+3025,"Třebenice – Muzeum českého granátu",True
+3026,"Peruc – Oldřichův dub",True
+3027,"Varnsdorf – rozhledna Hrádek",True
+3028,"Nová Ves – pomník Hanse Kudlicha",True
+3029,"Království – pomník obětem I. světové války",True
+3030,"Louny – obří kolo",True
+3031,"Kryry – Schillerova rozhledna",True
+3032,"Kadaň – orloj",True
+3033,"Nejsevernější bod ČR",True
+3034,"Bříza – bývalé nádraží",True
+3035,"Krásné Březno – vyhlídka Františka Málka",True
+3036,"Strážný vrch – rozhledna",True
+3037,"Ploskovice – zámek",True
+3038,"Jezero Matylda – přístaviště",True
+3039,"Březno – plastika Magická brána-Hodiny života",True
+3040,"Loučná – vyhlídka",True
+3041,"Teplá – klášter premonstrátů (vstupní brána)",True
+3042,"Kynšperk nad Ohří – krytá dřevěná lávka",True
+3043,"Horní Blatná – Vavřincova lavička",True
+3044,"Nejdek – Myší hrádek",True
+3045,"Aš – Goethův památník",True
+3046,"Chyše – zámek",True
+3047,"Branišov – zřícenina kostela sv. Blažeje",True
+3048,"Hroznětín – památník osvobození pohraničí",True
+3049,"Olověný vrch – rozhledna Bleiberg",True
+3050,"Doubrava – skanzen",True
+3051,"Šibeniční vrch – kamenný oltář",True
+3052,"Kolowratská skála – vyhlídka",True
+3053,"Pramen Věra",True
+3054,"Pomezná – tvrz",True
+3055,"Pramen Břetislav",True
+1822,"Stvolínky",True
+3056,"Doubská hora – kaple sv. Nikolaje",True
+3057,"Hlinky – čedičové varhany",True
+3058,"Pramen Bílý Halštrov",True
+3059,"Jakubov – mlýn na Ohři",True
+3060,"Liščí kopec – vyhlídka Chodaublick",True
+3061,"Rabí – zřícenina (vstup)",True
+3062,"Hrádek – socha chodského psa",True
+3063,"Kasejovice – synagoga",True
+3064,"Mariina skála – vyhlídka",True
+3065,"Čertovo jezero (rozcestník)",True
+3066,"Klenová – zřícenina",True
+3067,"Horšov – lovecký zámeček Annaburg",True
+3068,"Volfštejn – zřícenina",True
+3069,"Pernolec – barokní sýpka",True
+3070,"Tři schody – vyhlídka",True
+3071,"Plzeň – kolomazná pec",True
+3072,"Hraběcí kříž – vyhlídka",True
+3073,"Koráb – rozhledna",True
+3074,"Přimda – zřícenina",True
+3075,"Plasy – kostel Nanebevzetí Panny Marie",True
+3076,"Těnovice – buddhistická stúpa",True
+3077,"Němčovice – Pařezová chaloupka",True
+3078,"Úterý – radnice",True
+3079,"Heřmanova Huť – vodárenská věž",True
+3080,"Westernové městečko Halter Valley",True
+3081,"Vráž – zámek",True
+3082,"Stádlecký řetězový most",True
+3083,"Nové Hrady – hrad (vstup)",True
+3084,"Svákov – poutní kaple",True
+3085,"Střelské Hoštice – zámek",True
+3086,"Gotický portál",True
+3087,"Sedlice – Šternberský dům",True
+3088,"Kleť – rozhledna Josefova věž",True
+3089,"Rybník Rožmberk (rozcestník na hrázi)",True
+3090,"Hosín – kostel sv. Petra a Pavla",True
+3091,"Kostelní Vydří – karmelitánský klášter",True
+3092,"Jistebnice – poutní kostel",True
+3093,"Červený Újezdec – zámek",True
+3094,"Libín – rozhledna",True
+3095,"Putim – socha dobrého vojáka Švejka",True
+3096,"Stožecká kaple",True
+3097,"Chýnovská jeskyně (informační tabule)",True
+3098,"Pluhův Žďár – zámek",True
+3099,"Svobodná hora – rozhledna Haniperk",True
+3100,"Borotín – zřícenina",True
+3101,"Lány – hrobka T. G. Masaryka",True
+3102,"Libice nad Cidlinou – Slavníkovské hradiště (sousoší sv. Vojtěcha a sv. Radima)",True
+3103,"Drahoušek – rozhledna",True
+3104,"Lošany – památník Josefa Mašína",True
+3105,"Lobeč – Muzeum Eduarda Štorcha",True
+3106,"Sion – zřícenina",True
+3107,"Vacíkov – lovecký zámeček",True
+3108,"Neratovice – kamenný nápis MILUJI",True
+3109,"Kamenný stůl",True
+3110,"Koudelov – památník protinacistického odboje",True
+3111,"Neprobylice – dřevěná zvonice",True
+3112,"Okoř – zřícenina (vstup)",True
+3113,"Dobrovice – fontána",True
+3114,"Hrusice – busta Josefa Lady",True
+3115,"Studánka sv. Markéty",True
+3116,"Hostomice – pivovar",True
+3117,"Boží kámen",True
+3118,"Skalka – klášter",True
+3119,"Lipanská mohyla",True
+3120,"Dobrá Voda – socha sv. Františka",True
+3121,"Kuks – hospital (socha alegorie Náboženství)",True
+3122,"Babí – socha královny Elišky Rejčky",True
+3123,"Rtyně v Podkrkonoší – dřevěná zvonice",True
+3124,"Pěchotní srub Březinka",True
+3125,"Borovnice – větrný mlýn",True
+3126,"Hostinné – klášter františkánů (vstup)",True
+3127,"Nová Paka – sbor Jednoty bratrské",True
+3128,"Sobotka – zámek Humprecht",True
+3129,"Kosický rybník – srub",True
+3130,"Vrchlabí – Krkonošské muzeum",True
+3131,"Heřmánkovice – kostel Všech svatých",True
+3132,"Koruna – vyhlídka",True
+3133,"Hořiněves – rodný dům Václava Hanky",True
+3134,"Lokomotiva – vyhlídka",True
+3135,"Železnice – Vlastivědné muzeum",True
+3136,"Kopidlno – pomník T. G. Masaryka",True
+3137,"Kostelec nad Orlicí – Nový zámek",True
+3138,"Piletice – Šrámkův statek",True
+3139,"Vysoké Veselí – socha K. H. Borovského",True
+3140,"Opočno – zámek",True
+3141,"Svojšice – zřícenina",True
+3142,"Vojtěchovská rozhledna",True
+3143,"Jablonné nad Orlicí – obří lžíce",True
+3144,"Podlažice – kostel sv. Markéty",True
+3145,"Lázně Bohdaneč – radnice",True
+3146,"Březová nad Svitavou – rozhledna Járy Cimrmana",True
+3147,"Rychnov na Moravě – Mariánská studánka",True
+3148,"Vraclav – poustevna Fráterka",True
+3149,"Hvězda – rybník (rozcestník)",True
+3150,"Červenovodské sedlo – hraniční kámen Čechy-Morava",True
+3151,"Bošín – kostel sv. Filomény",True
+3152,"Růžový palouček – památník českým bratřím",True
+3153,"Pěchotní srub U Cihelny",True
+3154,"Žampach – zřícenina",True
+3155,"Hrochův Týnec – pomník obětem I. světové války",True
+3156,"Lichnice – zřícenina",True
+3157,"Lanškroun – obří hrneček",True
+3158,"Rychmburk – hrad",True
+3159,"Chvaletice – evangelický kostel",True
+3160,"Sezemice – dřevěná zvonice",True
+3161,"Ocmanice – rozhledna",True
+3162,"Golčův Jeníkov – střed České republiky",True
+3163,"Počátky – rodný dům Otokara Březiny",True
+3164,"Rosička – rozhledna",True
+3165,"Kámen – hrad (vstup)",True
+3166,"Dobronín – socha pohádkového koníka",True
+3167,"Velké Meziříčí – rozhledna Fajtův kopec",True
+3168,"Melechov – zeměměřičská věž",True
+3169,"Velká Bíteš – opevněný kostel sv. Jana Křtitele",True
+3170,"Mysliboř – socha Vodní víla",True
+3171,"Chotěboř – socha Čertův stolek",True
+3172,"Orlík – zřícenina (vstup)",True
+3173,"Třešť – sluneční hodiny",True
+3174,"Bystřice nad Pernštejnem – Park miniatur (hrad Pernštejn)",True
+3175,"Jaroměřice nad Rokytnou – zámek (vstup)",True
+3176,"Ždírec nad Doubravou – historický říšský směrovník",True
+3177,"Rounek – středověké kutiště",True
+3178,"Rudíkov – vyhlídková věž",True
+3179,"Nové Město na Moravě – poesiomat",True
+3180,"Třebíč – vyhlídka na Hrádku",True
+3181,"Vranov nad Dyjí – zámek (vstup)",True
+3182,"Vranov – kostel Narození Panny Marie (zvonkohra)",True
+3183,"Petrov – vinné sklepy Plže",True
+3184,"Hustopeče – kaple sv. Rocha",True
+3185,"Radošov – rozhledna",True
+3186,"Pohansko – lovecký zámeček",True
+3187,"Znojmo – Muzeum motorismu",True
+3188,"Bohutice – Lurdská jeskyně",True
+3189,"Chocholík – rozhledna",True
+3190,"Čejkovice – zámek",True
+3191,"Pernštejn – hrad (vstup)",True
+3192,"Hýsly – rozhledna Súsedská",True
+3193,"Předklášteří – cisterciácký klášter Porta coeli (gotický portál)",True
+3194,"Mikulov – zámek (kašna)",True
+1104,"Syřenov",True
+3195,"Slavkov u Brna – kaple sv. Urbana",True
+3196,"Rájec nad Svitavou – zámek",True
+3197,"Rajhrad – benediktinský klášter (vstup)",True
+3198,"Brno – světelná fontána ve tvaru opony",True
+3199,"Svitávka – Velká Löw-Beerova vila",True
+3200,"Hlína – rozhledna Vladimíra Menšíka",True
+3201,"Kvasice – zámek",True
+3202,"Štípa – větrný mlýn",True
+3203,"Střílky – barokní hřbitov",True
+3204,"Stůl setkání Sedmipočetníků",True
+3205,"Kaple sv. Huberta",True
+3206,"Valašské Klobouky – rozhledna Královec",True
+3207,"Rajnochovice – lesní železnice",True
+3208,"Kunovice – Letecké muzeum (vstup)",True
+3209,"Vlčnovské búdy – socha muzikanta (klarinet)",True
+3210,"Zubří – kaple sv. Ducha",True
+3211,"Holešov – zámek",True
+3212,"Velká Lhota – evangelický toleranční kostel",True
+3213,"Roštínská kaple",True
+3214,"Vsetín – socha Milník",True
+3215,"Bojkovice – rozhledna Na Skalce",True
+3216,"Bohuslavice u Zlína – kaple Navštívení Panny Marie",True
+3217,"Slavičín – umělá zřícenina",True
+3218,"Čubův kopec – rozhledna",True
+3219,"Dveře",True
+3220,"Kroměříž – Květná zahrada (vstup)",True
+3221,"Prostějov – socha Jiřího Wolkera",True
+3222,"Lupěné – železniční skanzen",True
+3223,"Litovel – Svatojánský most",True
+3224,"Jeskyně Na Špičáku",True
+3225,"Drahanovice – tvrz Černá věž",True
+3226,"Vidnava – radnice",True
+3227,"Svatý Kopeček – bazilika Navštívení Panny Marie",True
+3228,"Vodní nádrž Dlouhé stráně – vyhlídka u horní nádrže",True
+3229,"Vlkoš – hlemýždí rodinka před domem č. 60",True
+3230,"Lipová – hrádek",True
+3231,"Citov – soubor kovových plastik",True
+3232,"Biskupská kupa – rozhledna",True
+3233,"Šumperk – Lavička vzkazů",True
+3234,"Lipník nad Bečvou – nábřeží Járy Cimrmana (malba dámy se slunečníkem)",True
+3235,"Žulová – zřícenina a kostel Frýdberk",True
+3236,"Šternberk – hrad (vstup)",True
+3237,"Bělotín – sousoší Husovy pravdy",True
+3238,"Skalka – minerální prameny",True
+3239,"Háječek – nadhledna",True
+3240,"Jeseník – pomník Vincence Priessnitze",True
+3241,"Štramberk – náměstí (kašna)",True
+3242,"Opava – kostel sv. Jana Nepomuckého",True
+3243,"Rýmařov – Muzeum turistických známek",True
+3244,"Dolní Marklovice – dřevěný kostel",True
+3245,"Gírová – horská chata",True
+3246,"Chałupki (PL) – Pałac Rotszyldów",True
+3247,"Studénka – Vagonářské muzeum",True
+3248,"Úvalno – rozhledna Hanse Kudlicha",True
+3249,"Suchdol nad Odrou – Muzeum Moravských bratří",True
+3250,"Vikštejn – zřícenina",True
+3251,"Lysá hora – vrchol",True
+3252,"Karlovice – muzeum Kosárna",True
+3253,"Hodslavice – umělecká vyhlídka Krásověda",True
+3254,"Archeopark Chotěbuz-Podobora (vstup)",True
+3255,"Třemešná – socha Naděje českého národa",True
+3256,"Malá Prašivá – turistická chata",True
+3257,"Ostrava – pohádkový orloj",True
+3258,"Bruntál – zámek (vstup)",True
+3259,"Bělá – Křesťanský labyrint",True
+3260,"Havířov – fontána na náměstí Republiky",True
+3261,"Svratka – zvonice",True
+3262,"Devět skal – vyhlídka",True
+3263,"Pustá Rybná – osmiboká roubená stodola",True
+3264,"Památník česko-německého porozumění",True
+3265,"Červená hora – meteorologická stanice",True
+3266,"Norberčany – kostel sv. Antonína",True
+3267,"Godula – památník vydání tolerančního patentu",True
+3268,"Javorový – vrchol",True
+3269,"Malý Javorový – turistická chata",True
+3270,"Vodní nádrž Bedřichov – hráz",True
+3271,"Nová Louka – lovecký zámeček",True
+3272,"Hašlerova chata",True
+3273,"Žacléř – hornický skanzen (vstup)",True
+3274,"Horní Albeřice – muzeum Vápenka",True
+3275,"Horní Lysečiny – kaple Narození Páně",True
+3276,"Červený kopec – pomník obětem napoleonských válek",True
+3277,"Plankenberg – zřícenina",True
+3278,"Zahálkovy skalky – vyhlídka",True
+3279,"Velhartice – hrad (vstup)",True
+3280,"Svinná – kaple sv. Vendelína",True
+3281,"Můstek – turistický přístřešek",True
+3282,"Slabošovka – rozhledna",True
+3283,"Kohout – vrchol",True
+3284,"Černá – přehrada (rozcestník)",True
+3285,"Cínovec – pomník první zmínky o obci",True
+3286,"Kohlhaukuppe (DE) – rozhledna",True
+3287,"Komáří vížka – rozhledna",True
+3288,"Pálavský anděl lásky",True
+3289,"Děvín – vyhlídka",True
+3290,"Dolní Dunajovice – muzeum vinařství",True
+3291,"Paprsek – horský hotel",True
+3292,"Medvědí bouda – rozcestník",True
+3293,"Kladské sedlo – rozcestník",True
+3294,"Kladská – lovecký zámeček",True
+3295,"Farská kyselka",True
+3296,"Siardův pramen",True
+3333,"Olomouc - start",True
+3334,"Olomouc - cíl",True

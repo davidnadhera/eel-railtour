@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.14/dist/css/bootstrap-select.min.css">
+
+    <!-- Include eel.js - note this file doesn't exist in the 'web' directory -->
+    <script type="text/javascript" src="/eel.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.14/dist/js/bootstrap-select.min.js"></script>
+  </head>
+
+  <body>
+  <script src="https://api.mapy.cz/loader.js"></script>
+  <script>Loader.load()</script>
+  <script>
+  $(document).ready(function() {
+    var centerMap = SMap.Coords.fromWGS84(14.40, 50.08);
+    var m = new SMap(JAK.gel("m"));
+    m.addControl(new SMap.Control.Sync());
+    var l = m.addDefaultLayer(SMap.DEF_TURIST).enable();
+    m.addDefaultControls();
+    var mouse = new SMap.Control.Mouse(SMap.MOUSE_PAN | SMap.MOUSE_WHEEL | SMap.MOUSE_ZOOM); /* Ovládání myší */
+    m.addControl(mouse);
+
+    var layer = new SMap.Layer.Marker();
+    m.addLayer(layer);
+    layer.enable();
+
+    var vrstva = new SMap.Layer.Geometry();
+    m.addLayer(vrstva).enable();
+
+    var znacka1, znacka2;
+    var data = {};
+    var souradnice = [SMap.Coords.fromWGS84(18.7858278, 48.6465275),SMap.Coords.fromWGS84(11.8095094, 51.1302525)];
+    var znacky = [];
+
+    var cz = m.computeCenterZoom(souradnice); /* Spočítat pozici mapy tak, aby značky byly vidět */
+    m.setCenterZoom(cz[0], cz[1]);
+
+    function start(e) { /* Začátek tažení */
+        var node = e.target.getContainer();
+        node[SMap.LAYER_MARKER].style.cursor = "help";
+    }
+
+    function stop(e) {
+        var node = e.target.getContainer();
+        node[SMap.LAYER_MARKER].style.cursor = "";
+        vrstva.removeAll();
+        $("#spocti").click();
+    }
+
+    function click(e, elm) {
+      if (Object.keys(vrstva.getGeometries()).length) {
+        var coords = SMap.Coords.fromEvent(e.data.event, m);
+          var options = {
+              anchor: {left:10, bottom: 1}  /* Ukotvení značky za bod uprostřed dole */
+          }
+        var znacka = new SMap.Marker(coords, null, options);
+        znacka.decorate(SMap.Marker.Feature.Draggable);
+        layer.addMarker(znacka);
+        znacky.splice(znacky.length-1,0,znacka);
+        spocti();
+      }
+    }
+
+    function remove_marker(e, elm) {
+      if ((e.target != znacka1) && (e.target != znacka2)) {
+        layer.removeMarker(e.target);
+        const index = znacky.indexOf(e.target);
+        znacky.splice(index,1);
+        spocti();
+      }
+    }
+
+    var signals = m.getSignals();
+    signals.addListener(window, "marker-drag-stop", stop);
+    signals.addListener(window, "marker-drag-start", start);
+    signals.addListener(window, "map-click", click);
+    signals.addListener(window, "marker-click", remove_marker);
+
+  $(".selectpicker").selectpicker();
+
+$(document).on('keyup', '.filter-component .bs-searchbox input', function (e) {
+    let searchData = e.target.value;
+    let mySelect = e.target.parentElement.parentElement.parentElement.firstChild;
+
+    eel.chplist(searchData)(newOptions => $(mySelect).empty().append(newOptions).selectpicker('refresh').selectpicker('render'));
+});
+
+    function splitFirstWord(str) {
+        let spaceIndex = str.indexOf(' ');
+        return spaceIndex === -1 ? [str,''] : [str.substring(0, spaceIndex),str.substring(spaceIndex+1)];
+    }
+
+    function removeFirstWord(str) {
+        let spaceIndex = str.indexOf(' ');
+        return spaceIndex === -1 ? '' : str.substring(spaceIndex+1);
+    }
+
+$("#od").on('hide.bs.select', function () {
+    const coords_found = function (result) {
+        if (result) {
+          var c = SMap.Coords.fromWGS84(result.x,result.y); /* Souřadnice značky, z textového formátu souřadnic */
+
+          var options = {
+              title:removeFirstWord($("#od  option:selected").text()),
+              anchor: {left:10, bottom: 1}  /* Ukotvení značky za bod uprostřed dole */
+          }
+
+          znacka1 = new SMap.Marker(c, $("#od  option:selected").val(), options);
+          znacka1.decorate(SMap.Marker.Feature.Draggable);
+          layer.addMarker(znacka1);
+          if (znacky.length > 1) {
+            znacky.splice(0,znacky.length-1,znacka1);
+          } else {
+            znacky.unshift(znacka1);
+          }
+          souradnice = znacky.map(znacka => znacka.getCoords());
+          if (znacky.length > 1) {spocti();}
+        }
+
+
+        var cz = m.computeCenterZoom(souradnice); /* Spočítat pozici mapy tak, aby značky byly vidět */
+        m.setCenterZoom(cz[0], cz[1]);
+    }
+
+    vrstva.removeAll();
+    znacky.forEach(znacka => {
+      if (znacka != znacka2) {
+        layer.removeMarker(znacka);
+      }
+    });
+    eel.coords($("#od").val())(coords_found);
+});
+
+$("#do").on('hide.bs.select', function () {
+    const coords_found = function (result) {
+        if (result) {
+          var c = SMap.Coords.fromWGS84(result.x,result.y); /* Souřadnice značky, z textového formátu souřadnic */
+
+          var options = {
+              title:removeFirstWord($("#do  option:selected").text()),
+              anchor: {left:10, bottom: 1}  /* Ukotvení značky za bod uprostřed dole */
+          }
+
+          znacka2 = new SMap.Marker(c, $("#do  option:selected").val(), options);
+          znacka2.decorate(SMap.Marker.Feature.Draggable);
+          layer.addMarker(znacka2);
+          if (znacky.length > 1) {
+            znacky.splice(1,znacky.length,znacka2);
+          } else {
+            znacky.push(znacka2);
+          }
+          souradnice = znacky.map(znacka => znacka.getCoords());
+          if (znacky.length > 1) {spocti();}
+        }
+
+
+        var cz = m.computeCenterZoom(souradnice); /* Spočítat pozici mapy tak, aby značky byly vidět */
+        m.setCenterZoom(cz[0], cz[1]);
+    }
+
+    vrstva.removeAll();
+    znacky.forEach(znacka => {
+      if (znacka != znacka1) {
+        layer.removeMarker(znacka);
+      }
+    });
+    eel.coords($("#do").val())(coords_found);
+});
+
+    const nalezeno_route = (od_id, do_id, route) => {
+      $("#vysledek").empty();
+      console.log('route: ');
+      console.log(route.getResults());
+
+      var coords = route.getResults().geometry;
+<!--      var cz = m.computeCenterZoom(coords);-->
+<!--      console.log(coords);-->
+<!--      m.setCenterZoom(cz[0], cz[1]);-->
+      var g = new SMap.Geometry(SMap.GEOMETRY_POLYLINE, null, coords);
+      vrstva.addGeometry(g);
+
+      koef = (3000<=od_id<=3999) && (3000<=do_id<=3999) ? 2/3 : 3/4;
+      cas = Math.round(route.getResults().time/60*koef);
+      cas = od_id<3000 ? cas+5 : cas;
+      delka = Math.round(route.getResults().length/100)/10;
+      data = {'od':od_id,'do':do_id,'cas':cas,'delka':delka};
+      $("#vysledek").append('Od: '+data.od+' Do: '+data.do+'<br>');
+      $("#vysledek").append('Čas: '+data.cas+' Délka: '+data.delka+'<br>');
+    }
+
+function spocti() {
+    vrstva.removeAll();
+    route_coords = znacky.map(znacka => znacka.getCoords());
+    console.log(route_coords);
+
+    SMap.Route.route(route_coords, {criterion:"turist1", geometry: true})
+              .then(route => nalezeno_route(znacka1.getId(),znacka2.getId(),route));
+}
+
+$("#spocti").click(function(){
+  if (znacka1 && znacka2) {
+    spocti();
+  }
+
+  const coords_result = (id,obj,result) => {
+      console.log(result);
+      if (result) {
+          obj[id] = SMap.Coords.fromWGS84(result.x,result.y);
+          if (Object.keys(obj).length == 2) {
+              console.log(obj[od[0]]);
+              console.log(obj[doo[0]]);
+              SMap.Route.route([obj[od[0]],obj[doo[0]]], {criterion:"turist1", geometry: true})
+              .then(route => nalezeno(od[0],doo[0],route));
+              SMap.Route.route([obj[doo[0]],obj[od[0]]], {criterion:"turist1", geometry: true})
+              .then(route => nalezeno(doo[0], od[0],route));
+          }
+      } else {
+          alert('Neznámý bod '+id);
+      }
+  }
+});
+
+eel.expose(list_coords)
+function list_coords(items) {
+            console.log(items.length);
+            obj = {};
+            var interval = 1000; // how much time should the delay between two iterations be (in milliseconds)?
+            var promise = Promise.resolve();
+            items.forEach(function (query) {
+              promise = promise.then(function () {
+                if (query.id<3000) {
+                  query.nazev = query.nazev + ' vlaková stanice';
+                }
+                if (query.id>3999) {
+                  query.nazev = query.nazev + ' zastávka tramvaje';
+                }
+                new SMap.Geocoder(query.nazev, geo => {
+                    if (!geo.getResults()[0].results.length) {
+                        obj[query.id] = {'x':0.0,'y':0.0};
+                    } else {
+                        obj[query.id] = geo.getResults()[0].results.shift().coords;
+                    }
+                    console.log(obj);
+                });
+                return new Promise(function (resolve) {
+                  setTimeout(resolve, interval);
+                });
+              });
+            });
+
+            promise.then(function () {
+              eel.send_coords(obj);
+            });
+
+}
+
+function coords(id,nazev) {
+  const nalezeno = (id,geo) => {
+    if (!geo.getResults()[0].results.length)
+      {eel.send_coords({'id':id,'x':0.0,'y':0.0});}
+    else {
+      const coords = geo.getResults()[0].results.shift().coords;
+      eel.send_coords({'id':id,'x':coords.x,'y':coords.y});
+    }
+  }
+}
+      eel.expose(geokoduj)
+      function geokoduj(aquery) {
+          $("#vysledek").empty();
+          console.log(aquery.od);
+          console.log(aquery.do);
+          if (aquery.od && aquery.do) {
+            let obj = {};
+            let items = [aquery.od,aquery.do];
+            let data;
+            const nalezeno = (od_id, do_id, route) => {
+                              console.log('route: ');
+                              console.log(route.getResults());
+                              koef = (3000<=od_id<=3999) && (3000<=do_id<=3999) ? 2/3 : 3/4;
+                              cas = Math.round(route.getResults().time/60*koef);
+                              cas = od_id<3000 ? cas+5 : cas;
+                              delka = Math.round(route.getResults().length/100)/10;
+                              data = {'od':od_id,'do':do_id,'cas':cas,'delka':delka};
+                              $("#vysledek").append('Čas: '+data.cas+' Délka: '+data.delka+'<br>');
+                              eel.send_data(data);
+                          }
+            items.forEach(query => {
+                console.log(query);
+                new SMap.Geocoder(query, geo => {
+                    obj[query] = geo.getResults()[0].results.shift().coords;
+                    console.log(obj);
+                    if (Object.keys(obj).length == items.length) {
+                          SMap.Route.route([obj[aquery.od],obj[aquery.do]], {criterion:"turist1"})
+                          .then(route => nalezeno(aquery.od_id,aquery.do_id,route));
+                          SMap.Route.route([obj[aquery.do],obj[aquery.od]], {criterion:"turist1"})
+                          .then(route => nalezeno(aquery.do_id,aquery.od_id,route));
+                    }
+                });
+            });
+          }
+      }
+
+});</script>
+
+    <div class="container">
+      <div class="form-row">
+        <div class="form-group col-md-6 filter-component">
+           <label for="od">Odkud</label>
+           <select class="form-control selectpicker" data-dropup-auto="false"
+                      data-live-search-normalize="true" data-live-search="true" id="od" name="od">
+          </select>
+        </div>
+        <div class="form-group col-md-6 filter-component">
+           <label for="do">Kam</label>
+           <select class="form-control selectpicker" data-dropup-auto="false"
+                      data-live-search-normalize="true" data-live-search="true" id="do" name="do">
+          </select>
+        </div>
+      </div>
+      <p id="vysledek"></p>
+      <button class="btn btn-info" id="spocti">Spočti</button
+    </div>
+    <div id="m" style="height:380px; margin:10px"></div>
+  </body>
+</html>
