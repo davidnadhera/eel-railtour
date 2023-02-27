@@ -8,6 +8,17 @@
     var mouse = new SMap.Control.Mouse(SMap.MOUSE_PAN | SMap.MOUSE_WHEEL | SMap.MOUSE_ZOOM); /* Ovládání myší */
     m.addControl(mouse);
 
+//    var poiLayer = new SMap.Layer.Marker(undefined, {
+//        poiTooltip: true
+//    });
+//    m.addLayer(poiLayer).enable();
+//
+//    var dataProvider = m.createDefaultDataProvider();
+//    dataProvider.setOwner(m);
+//    dataProvider.addLayer(poiLayer);
+//    dataProvider.setMapSet(SMap.MAPSET_BASE);
+//    dataProvider.enable();
+
     var layer = new SMap.Layer.Marker();
     m.addLayer(layer);
     layer.enable();
@@ -16,12 +27,22 @@
     m.addLayer(vrstva).enable();
 
     var znacka1, znacka2;
-    var data = [];
     var souradnice = [SMap.Coords.fromWGS84(18.7858278, 48.6465275),SMap.Coords.fromWGS84(11.8095094, 51.1302525)];
     var znacky = [];
 
     var cz = m.computeCenterZoom(souradnice); /* Spočítat pozici mapy tak, aby značky byly vidět */
     m.setCenterZoom(cz[0], cz[1]);
+
+    function createURL(txt) {
+        var znacka = JAK.mel("div");
+        var obrazek = JAK.mel("img", {src:SMap.CONFIG.img+"/marker/drop-red.png"});
+        znacka.appendChild(obrazek);
+
+        var popisek = JAK.mel("div", {}, {position:"absolute", left:"0px", top:"2px", textAlign:"center", width:"22px", color:"white", fontWeight:"bold"});
+        popisek.innerHTML = txt;
+        znacka.appendChild(popisek);
+        return znacka
+    }
 
     function start(e) { /* Začátek tažení */
         var node = e.target.getContainer();
@@ -39,7 +60,9 @@
       if (Object.keys(vrstva.getGeometries()).length) {
         var coords = SMap.Coords.fromEvent(e.data.event, m);
           var options = {
-              anchor: {left:10, bottom: 1}  /* Ukotvení značky za bod uprostřed dole */
+              title: `průchozí bod {znacky.length-1}`,
+              anchor: {left:10, bottom: 1},  /* Ukotvení značky za bod uprostřed dole */
+              url: createURL(znacky.length-1)
           }
         var znacka = new SMap.Marker(coords, null, options);
         znacka.decorate(SMap.Marker.Feature.Draggable);
@@ -49,11 +72,21 @@
       }
     }
 
+    function isPruchozi(znacka) {
+      return znacka.getTitle().startsWith('průchozí bod');
+    }
+
     function remove_marker(e, elm) {
-      if ((e.target != znacka1) && (e.target != znacka2)) {
-        layer.removeMarker(e.target);
+      if (isPruchozi(e.target)) {
         const index = znacky.indexOf(e.target);
-        znacky.splice(index,1);
+        console.log(index);
+        console.log(znacky);
+        for (let i = index; i < znacky.length-2; i++) {
+          console.log(i);
+          znacky[i].setCoords(znacky[i+1].getCoords())
+        }
+        layer.removeMarker(znacky[znacky.length-2]);
+        znacky.splice(znacky.length-2,1);
         spocti();
       }
     }
@@ -90,7 +123,8 @@ $("#od").on('hide.bs.select', function () {
 
           var options = {
               title:removeFirstWord($("#od  option:selected").text()),
-              anchor: {left:10, bottom: 1}  /* Ukotvení značky za bod uprostřed dole */
+              anchor: {left:10, bottom: 1},  /* Ukotvení značky za bod uprostřed dole */
+              url: createURL("A")
           }
 
           if ($("#od  option:selected").val() != $("#do  option:selected").val()) {
@@ -130,7 +164,8 @@ $("#do").on('hide.bs.select', function () {
 
           var options = {
               title:removeFirstWord($("#do  option:selected").text()),
-              anchor: {left:10, bottom: 1}  /* Ukotvení značky za bod uprostřed dole */
+              anchor: {left:10, bottom: 1},  /* Ukotvení značky za bod uprostřed dole */
+              url: createURL("B")
           }
 
           if ($("#od  option:selected").val() != $("#do  option:selected").val()) {
@@ -163,7 +198,7 @@ $("#do").on('hide.bs.select', function () {
     eel.coords($("#do").val())(coords_found);
 });
 
-    const nalezeno_route = (od, do_, route) => {
+    const nalezeno_route = (od, do_, elm_cas, elm_km, route) => {
       const od_id = od.getId()
       const do_id = do_.getId()
 
@@ -175,25 +210,32 @@ $("#do").on('hide.bs.select', function () {
       cas = Math.round(route.getResults().time/60*koef);
       cas = od_id<3000 ? cas+5 : cas;
       delka = Math.round(route.getResults().length/100)/10;
-      data.push({'od':od_id,'do':do_id,'gps_od':od.getCoords(),'gps_do':do_.getCoords(),'cas':cas,'delka':delka});
-      $("#vysledek").append('Od: '+od_id+' Do: '+do_id+'<br>');
-      $("#vysledek").append('Čas: '+cas+' Délka: '+delka+'<br>');
+      elm_cas.val(cas);
+      elm_km.val(delka);
+      $(".trasa").show();
     }
 
 function spocti() {
     vrstva.removeAll();
-    $("#vysledek").empty();
+
+    $(".trasa").hide();
+    $(".vysledek").val('');
+    $("#vysledek").empty()
     route_coords = znacky.map(znacka => znacka.getCoords());
-    data = []
 
     SMap.Route.route(route_coords, {criterion:"turist1", geometry: true})
-              .then(route => nalezeno_route(znacka1,znacka2,route));
+              .then(route => nalezeno_route(znacka1,znacka2,$('#cas_tam'),$('#km_tam'),route));
     SMap.Route.route(route_coords.slice().reverse(), {criterion:"turist1", geometry: true})
-              .then(route => nalezeno_route(znacka2,znacka1,route));
+              .then(route => nalezeno_route(znacka2,znacka1,$('#cas_zpet'),$('#km_zpet'),route));
 }
 
 $("#zapis").click(function(){
   if (Object.keys(vrstva.getGeometries()).length) {
+    $(".trasa").hide();
+    const data = [{'od':znacka1.getId(),'do':znacka2.getId(),'gps_od':znacka1.getCoords(),'gps_do':znacka2.getCoords(),
+                   'cas':$('#cas_tam').val(),'delka':$('#km_tam').val()},
+                  {'od':znacka2.getId(),'do':znacka1.getId(),'gps_od':znacka2.getCoords(),'gps_do':znacka1.getCoords(),
+                  'cas':$('#cas_zpet').val(),'delka':$('#km_zpet').val()}];
     eel.send_data(data)((result) => $("#vysledek").empty().append(result));
   }
 });

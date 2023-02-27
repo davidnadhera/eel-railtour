@@ -22,6 +22,7 @@ def chplist(x):
 
 @eel.expose                         # Expose this function to Javascript
 def send_data(data):
+    # print(data)
     for trasa in data:
         bod_od = session.get(Bod,trasa['od'])
         bod_do = session.get(Bod,trasa['do'])
@@ -47,11 +48,12 @@ def send_data(data):
 
 @eel.expose                         # Expose this function to Javascript
 def coords(id):
-    bod = session.get(Bod,id)
-    if bod:
-        return {'y': bod.gps_N,'x': bod.gps_E}
-    else:
+    if not id:
         return None
+    bod = session.get(Bod,id)
+    if not bod:
+        return None
+    return {'y': bod.gps_N, 'x': bod.gps_E}
 
 body = session.query(Bod).all()
 for bod in body:

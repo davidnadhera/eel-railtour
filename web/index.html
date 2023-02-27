@@ -2,6 +2,7 @@
 <html>
   <head>
     <title>Kalkulátor tras pro Railtour 2023</title>
+    <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.14/dist/css/bootstrap-select.min.css">
 
@@ -32,8 +33,28 @@
           </select>
         </div>
       </div>
+      <div class="trasa">
+          <div class="form-row form-group">
+                <div class="col">
+                   <label for="cas_tan">Čas (tam)</label>
+                   <input class="form-control vysledek" type="number" id="cas_tam" name="cas_tam"/>
+                </div>
+                <div class="col">
+                   <label for="km_tam">km</label>
+                   <input class="form-control vysledek" type="number" step="0.1" id="km_tam" name="km_tam"/>
+                </div>
+                <div class="col">
+                   <label for="cas_zpet">Čas (zpět)</label>
+                   <input class="form-control vysledek" type="number" id="cas_zpet" name="cas_zpet"/>
+                </div>
+                <div class="col">
+                   <label for="km_zpet">km</label>
+                   <input class="form-control vysledek" type="number" step="0.1" id="km_zpet" name="km_zpet"/>
+                </div>
+          </div>
+          <button class="btn btn-info" id="zapis">Zapiš do DB</button>
+      </div>
       <p id="vysledek"></p>
-      <button class="btn btn-info" id="zapis">Zapiš do DB</button>
       <div id="m" style="height:600px; margin:10px"></div>
     </div>
   </body>
