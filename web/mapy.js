@@ -79,10 +79,7 @@
     function remove_marker(e, elm) {
       if (isPruchozi(e.target)) {
         const index = znacky.indexOf(e.target);
-        console.log(index);
-        console.log(znacky);
         for (let i = index; i < znacky.length-2; i++) {
-          console.log(i);
           znacky[i].setCoords(znacky[i+1].getCoords())
         }
         layer.removeMarker(znacky[znacky.length-2]);
@@ -198,6 +195,14 @@ $("#do").on('hide.bs.select', function () {
     eel.coords($("#do").val())(coords_found);
 });
 
+function isHorska(id) {
+  return (id <= 3296) && (id >= 3261)
+}
+
+function isCheckpoint(id) {
+  return (id <= 3999) && (id >= 3000)
+}
+
     const nalezeno_route = (od, do_, elm_cas, elm_km, route) => {
       const od_id = od.getId()
       const do_id = do_.getId()
@@ -205,11 +210,11 @@ $("#do").on('hide.bs.select', function () {
       var coords = route.getResults().geometry;
       var g = new SMap.Geometry(SMap.GEOMETRY_POLYLINE, null, coords);
       vrstva.addGeometry(g);
-
-      koef = (3000<=od_id<=3999) && (3000<=do_id<=3999) ? 2/3 : 3/4;
+      delka = Math.round(route.getResults().length/100)/10;
+      koef = (delka<=7) && (!isHorska(od_id)) && (!isHorska(do_id)) && ((!isCheckpoint(od_id)) || (!isCheckpoint(do_id))) ? 2/3 : 3/4;
+      console.log(koef);
       cas = Math.round(route.getResults().time/60*koef);
       cas = od_id<3000 ? cas+5 : cas;
-      delka = Math.round(route.getResults().length/100)/10;
       elm_cas.val(cas);
       elm_km.val(delka);
       $(".trasa").show();

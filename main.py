@@ -55,10 +55,6 @@ def coords(id):
         return None
     return {'y': bod.gps_N, 'x': bod.gps_E}
 
-body = session.query(Bod).all()
-for bod in body:
-    bod.lower_name = str.lower(bod.name)
-session.commit()
 
 eel.start('index.html', mode='my_portable_chromium')             # Start (this blocks and enters loop)
 
