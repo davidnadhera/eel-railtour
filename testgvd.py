@@ -15,3 +15,4 @@ with open('data/schema.pickle', 'rb') as handle:
 data =  gvd[3293][3001]
 for hrana in data:
     print(hrana)
+    print('test')
