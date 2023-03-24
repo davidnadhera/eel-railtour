@@ -6,7 +6,7 @@ import pickle
 session = Session()
 ch1 = aliased(Checkpoint)
 ch2 = aliased(Checkpoint)
-active_hrany = session.query(Hrana,ch2.kraj,ch2.body,ch2.docile).join(ch1, Hrana.od) \
+active_hrany = session.query(Hrana,ch2.kraj,ch2.body,ch2.docile,ch1.presunx).join(ch1, Hrana.od) \
                                        .join(ch2, Hrana.do) \
                                        .filter(ch1.active==True,ch2.active==True) \
                                        .order_by(Hrana.od_id,Hrana.do_id,Hrana.odjezd)
@@ -27,7 +27,8 @@ for start in active_chp:
                                   'km': u.Hrana.km,
                                   'kraj': u.kraj,
                                   'body': u.body,
-                                  'docile': u.docile} for u in my_query]
+                                  'docile': u.docile,
+                                  'presunx': u.presunx} for u in my_query]
     schema[start.id] = subschema
 
 with open('data/schema.pickle', 'wb') as handle:

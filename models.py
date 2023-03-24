@@ -1,6 +1,6 @@
 from sqlalchemy.orm import relationship, backref
 from sqlalchemy import Column, Integer, String, Date, ForeignKey, Boolean, ForeignKeyConstraint
-from sqlalchemy.dialects.sqlite import REAL,TIME
+from sqlalchemy.dialects.sqlite import REAL,TIME,DATETIME
 from sqlalchemy.ext.associationproxy import association_proxy
 from dbutils import get_or_create
 from sqlalchemy.ext.declarative import declarative_base
@@ -36,6 +36,12 @@ class SpojHrany(Base):
         foreign_keys="[SpojHrany.od_id, SpojHrany.do_id]",
         back_populates="presun_spoje_hran",
     )
+
+    def __repr__(self):
+        if self.presun:
+            print(self.presun)
+        else:
+            print(self.spoj)
 
 class Hrana(Base):
     __tablename__ = "hrany"
@@ -212,7 +218,10 @@ class Checkpoint(Bod):
     active = Column(Boolean)
     body = Column(Integer)
     kraj = Column(Integer)
-    docile = Column(Integer)
+    docile = Column(DATETIME)
+    premie1 = Column(DATETIME)
+    premie2 = Column(DATETIME)
+    presunx = Column(Integer)
 
     __mapper_args__ = {
         "polymorphic_identity": "checkpoint",
