@@ -187,9 +187,10 @@ class Bod(Base):
                 cas = datetime.strptime(row.attrib['data-datetime'], '%d.%m.%Y %H:%M:%S')
                 if cas >= cas_max:
                     break
-                vlak_id = int(row.attrib['data-train'])
+                # vlak_id = int(row.attrib['data-train'])
                 node = row.xpath('./td[2]/span/span/h3')
                 vlak = node[0].text.split()
+                vlak_id = vlak[1]
                 # writer.writerow({'bod_id':self.id,'cas':cas,'vlak':vlak,'vlak_id':vlak_id})
 
                 stop = get_or_create(session,Stop,stanice=self,vlak_id=vlak_id)
@@ -198,6 +199,7 @@ class Bod(Base):
                 else:
                     stop.odjezd = cas.time()
                 stop.vlak = ' '.join(vlak[:2])
+                stop.kategorie = vlak[0]
                 session.add(stop)
                 session.commit()
             if prevcas == cas:

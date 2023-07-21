@@ -3,7 +3,7 @@ from db import Session
 from models import Bod,Spoj
 
 session = Session()
-body = session.query(Bod).all()
+body = session.query(Bod).filter(Bod.uzel).all()
 
 for bod in body:
     print(bod)

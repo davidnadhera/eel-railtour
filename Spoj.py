@@ -1,8 +1,8 @@
-from datetime import datetime
+from datetime import datetime, timedelta
 
 
 class Spojx:
     def __init__(self, cas, id, doba):
         self.odjezd = cas
         self.id = id
-        self.doba = doba
+        self.doba = timedelta(seconds=doba)
